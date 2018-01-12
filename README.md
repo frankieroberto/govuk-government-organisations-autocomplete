@@ -7,7 +7,7 @@ using data from both the [government-organisation register](https://government-o
 [GOV.UK organisations API](https://www.gov.uk/api/organisations). This allows the autocomplete to be searched using 
 previous names for organisations as well as abbreviations (eg 'DfE').
 
-[View demo](/examples)
+[View demo](https://frankieroberto.github.io/govuk-government-organisations-autocomplete/examples/)
 
 ## Source data
 
