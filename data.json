@@ -782,7 +782,7 @@
     "register_key": "D23",
     "current_name": "Scotland Office",
     "previous_names": [
-
+      "Office of the Secretary of State for Scotland"
     ],
     "start_date": null,
     "end_date": null,
@@ -931,7 +931,8 @@
     "register_key": "D4",
     "current_name": "Ministry of Housing, Communities and Local Government",
     "previous_names": [
-      "Department for Communities and Local Government"
+      "Department for Communities and Local Government",
+      "Ministry of Housing, Communities & Local Government"
     ],
     "start_date": null,
     "end_date": null,
@@ -960,7 +961,8 @@
     "current_name": "Department for Digital, Culture, Media and Sport",
     "previous_names": [
       "Department for Culture, Media & Sport",
-      "Digital, Culture, Media and Sport"
+      "Digital, Culture, Media and Sport",
+      "Department for Digital, Culture, Media & Sport"
     ],
     "start_date": null,
     "end_date": null,
@@ -4906,7 +4908,7 @@
     "register_key": "OT1182",
     "current_name": "Digital, data and technology professions",
     "previous_names": [
-
+      "Digital, Data and Technology Profession"
     ],
     "start_date": null,
     "end_date": null,
@@ -5934,7 +5936,7 @@
     "register_key": "OT444",
     "current_name": "Independent Monitoring Boards of Prisons, Immigration, Removal Centres and Short Term Holding Rooms",
     "previous_names": [
-
+      "Independent Monitoring Boards"
     ],
     "start_date": null,
     "end_date": null,
@@ -6659,7 +6661,7 @@
     "register_key": "OT557",
     "current_name": "Export Control Organisation",
     "previous_names": [
-
+      "Export Control Joint Unit"
     ],
     "start_date": null,
     "end_date": null,
@@ -11168,7 +11170,7 @@
     "register_key": "PB235",
     "current_name": "Pension Protection Fund Ombudsman",
     "previous_names": [
-
+      "The Pension Protection Fund Ombudsman"
     ],
     "start_date": null,
     "end_date": null,
@@ -11185,7 +11187,7 @@
     "register_key": "PB236",
     "current_name": "Pensions Ombudsman",
     "previous_names": [
-
+      "The Pensions Ombudsman"
     ],
     "start_date": null,
     "end_date": null,
@@ -11202,7 +11204,7 @@
     "register_key": "PB246",
     "current_name": "The Children and Family Court Advisory and Support Service",
     "previous_names": [
-
+      "Cafcass"
     ],
     "start_date": null,
     "end_date": null,
@@ -13663,7 +13665,7 @@
     "register_key": "PC493",
     "current_name": "London and Continental Railways Ltd",
     "previous_names": [
-
+      "London and Continental Railways Limited"
     ],
     "start_date": null,
     "end_date": null,
