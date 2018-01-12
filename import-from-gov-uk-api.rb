@@ -103,6 +103,8 @@ govuk_orgs.each do |govuk_org|
     existing_org['other_names'] << logo_formatted_name
   end
 
+  existing_org['other_names'] = (existing_org['other_names'] - [existing_org['current_name']]).sort
+
 end
 
 json_file = File.open('data.json', 'w')
