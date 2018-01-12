@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GOV.UK government organisation autocomplete</title>
+    <link rel="stylesheet" href="vendor/accessible-autocomplete.css" />
+    <script type="text/javascript" src="vendor/accessible-autocomplete.js"></script>
+    <script type="text/javascript" src="../govuk_government_organisations_autocomplete.js"></script>
+    <style>
+      html {
+        color: #111;
+        background: #FFF;
+        font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+      }
+
+      body {
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+
+      h1, h2, h3, h4, h5, h6 {
+        line-height: normal;
+      }
+
+      label {
+        display: block;
+        font-weight: bold;
+        margin-bottom: .5rem;
+      }
+
+      code {
+        padding-left: .5em;
+        padding-right: .5em;
+        background: #EFEFEF;
+        font-weight: normal;
+        font-family: monospace;
+      }
+
+      main {
+        max-width: 35em;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .autocomplete-wrapper {
+        max-width: 20em;
+        margin-bottom: 4rem;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>GOV.UK government organisation autocomplete</h1>
+
+      <h2>Basic example</h2>
+      <p>This illustrates basic usage.</p>
+      <label for="government-organisations">Organisation</label>
+      <div>
+        <select id="government-organisations">
+          <option value="" selected>Pick an option</option>
+        </select>
+      </div>
+
+      <script>
+
+        govukGovernmentOrganisationsAutocomplete({
+          selectElement: document.getElementById('government-organisations'),
+          showAllValues: true,
+          defaultValue: '',
+          sourceUrl: '../data.json'
+        })
+
+      </script>
+    </main>
+  </body>
+</html>
