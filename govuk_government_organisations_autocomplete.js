@@ -35,7 +35,9 @@ var govukGovernmentOrganisationsAutocomplete = function(options) {
 
     var sourceSelect = function(query, callback) {
 
-      var regex = new RegExp('\\b' + query, 'i')
+      var regexes = query.trim().split(/\s+/).map(function(word) {
+        return new RegExp('\\b' + word, 'i')
+      })
 
       var matches = sortedOrganisations.map(function(organisation) {
 
@@ -49,10 +51,24 @@ var govukGovernmentOrganisationsAutocomplete = function(options) {
 
         for (var i = 0; i < allNames.length; i++) {
 
-          var matchPosition = allNames[i].search(regex)
+          var matches = regexes.reduce(function(acc, regex) {
 
-          if (matchPosition > -1 && (organisation['resultPosition'] == null || matchPosition < organisation['resultPosition'])) {
-            organisation['resultPosition'] = matchPosition
+            matchPosition = allNames[i].search(regex)
+            if (matchPosition > -1) {
+              acc.count += 1
+
+              if (acc.lowestPosition == -1 || matchPosition < acc.lowestPosition) {
+                acc.lowestPosition = matchPosition
+              }
+            }
+
+            return acc;
+
+          }, {'count': 0, 'lowestPosition': -1})
+
+
+          if (matches.count == regexes.length && (organisation['resultPosition'] == null || matches.lowestPosition < organisation['resultPosition'])) {
+            organisation['resultPosition'] = matches.lowestPosition
           }
         }
 
