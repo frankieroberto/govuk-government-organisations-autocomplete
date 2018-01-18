@@ -99,12 +99,9 @@ var govukGovernmentOrganisationsAutocomplete = function(options) {
     }
 
 
-    accessibleAutocomplete.enhanceSelectElement({
-      selectElement: options['selectElement'],
-      showAllValues: options['showAllValues'],
-      defaultValue: options['defaultValue'],
-      source: sourceSelect
-    })
+    options.source = sourceSelect
+
+    accessibleAutocomplete.enhanceSelectElement(options)
 
 
   })
