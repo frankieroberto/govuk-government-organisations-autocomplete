@@ -3,109 +3,91 @@
 
 var govukGovernmentOrganisationsAutocomplete = function(options) {
 
-  var req = new XMLHttpRequest();
-  req.addEventListener('load', function() {
+  var sourceSelect = function(query, callback) {
 
-    var organisations = JSON.parse(this.responseText)
-
-    var formatSortOrder = ['Ministerial department', 'Non-ministerial department', 'Executive agency']
-
-    var organisationsThatStillExist = organisations.filter(function(organisation) {
-      return organisation.end_date == null
+    var optionsWithAValue = [].filter.call(options.selectElement.options, function(option) {
+      return option.value != ''
     })
 
-    var sortedOrganisations = organisationsThatStillExist.sort(function(orgA, orgB) {
+    var orgs = optionsWithAValue.map(function(select) {
 
-      var indexA = formatSortOrder.indexOf(orgA.format)
-      var indexB = formatSortOrder.indexOf(orgB.format)
+      var dataAbbreviations = select.getAttribute('data-abbreviations');
+      dataAbbreviations = dataAbbreviations ? dataAbbreviations.split('|') : []
 
-      indexA = (indexA > -1 ? indexA : 9999)
-      indexB = (indexB > -1 ? indexB : 9999)
+      var dataOtherNames = select.getAttribute('data-other-names');
+      dataOtherNames = dataOtherNames ? dataOtherNames.split('|') : []
 
-      if (indexA < indexB) {
-        return -1
-      } else if (indexA > indexB) {
-        return 1
-      } else {
-        return (orgA.current_name < orgB.current_name ? -1 : 1)
+      return {
+        'current_name': select.label,
+        'abbreviations': dataAbbreviations,
+        'other_names': dataOtherNames
+      }
+    })
+
+    var regexes = query.trim().split(/\s+/).map(function(word) {
+      return new RegExp('\\b' + word, 'i')
+    })
+
+    var matches = orgs.map(function(organisation) {
+
+      var allNames = [organisation.current_name]
+        .concat(organisation.other_names)
+        .concat(organisation.abbreviations)
+        .filter(function(name) { return name })
+
+      organisation['resultPosition'] = null
+
+
+      for (var i = 0; i < allNames.length; i++) {
+
+        var matches = regexes.reduce(function(acc, regex) {
+
+          matchPosition = allNames[i].search(regex)
+          if (matchPosition > -1) {
+            acc.count += 1
+
+            if (acc.lowestPosition == -1 || matchPosition < acc.lowestPosition) {
+              acc.lowestPosition = matchPosition
+            }
+          }
+
+          return acc;
+
+        }, {'count': 0, 'lowestPosition': -1})
+
+
+        if (matches.count == regexes.length && (organisation['resultPosition'] == null || matches.lowestPosition < organisation['resultPosition'])) {
+          organisation['resultPosition'] = matches.lowestPosition
+        }
       }
 
+      return organisation
+
     })
 
+    var filteredMatches = matches.filter(function(organisation) {
+      return (organisation['resultPosition'] != null )
+    })
 
-    var sourceSelect = function(query, callback) {
+    var sortedFilteredMatches = filteredMatches.sort(function(organisationA, organisationB) {
 
-      var regexes = query.trim().split(/\s+/).map(function(word) {
-        return new RegExp('\\b' + word, 'i')
-      })
+      if (organisationA['resultPosition'] < organisationB['resultPosition'] ) {
+        return -1
+      } else if (organisationA['resultPosition'] > organisationB['resultPosition'] ) {
+        return 1
+      } else {
+        return 0
+      }
+    })
 
-      var matches = sortedOrganisations.map(function(organisation) {
+    var results = sortedFilteredMatches.map(function(organisation) { return organisation['current_name'] })
 
-        var allNames = [organisation.current_name]
-          .concat(organisation.other_names)
-          .concat(organisation.abbreviations)
-          .filter(function(name) { return name })
-
-        organisation['resultPosition'] = null
-
-
-        for (var i = 0; i < allNames.length; i++) {
-
-          var matches = regexes.reduce(function(acc, regex) {
-
-            matchPosition = allNames[i].search(regex)
-            if (matchPosition > -1) {
-              acc.count += 1
-
-              if (acc.lowestPosition == -1 || matchPosition < acc.lowestPosition) {
-                acc.lowestPosition = matchPosition
-              }
-            }
-
-            return acc;
-
-          }, {'count': 0, 'lowestPosition': -1})
+    return callback(results)
+  }
 
 
-          if (matches.count == regexes.length && (organisation['resultPosition'] == null || matches.lowestPosition < organisation['resultPosition'])) {
-            organisation['resultPosition'] = matches.lowestPosition
-          }
-        }
+  options.source = sourceSelect
 
-        return organisation
-
-      })
-
-
-      var filteredMatches = matches.filter(function(organisation) {
-        return (organisation['resultPosition'] != null )
-      })
-
-
-      var sortedFilteredMatches = filteredMatches.sort(function(organisationA, organisationB) {
-
-        if (organisationA['resultPosition'] < organisationB['resultPosition'] ) {
-          return -1
-        } else if (organisationA['resultPosition'] > organisationB['resultPosition'] ) {
-          return 1
-        } else {
-          return 0
-        }
-      })
-
-      var results = sortedFilteredMatches.map(function(organisation) { return organisation['current_name'] })
-
-      return callback(results)
-    }
-
-
-    options.source = sourceSelect
-
-    accessibleAutocomplete.enhanceSelectElement(options)
-
-
-  })
-  req.open('GET', options['sourceUrl'])
-  req.send()
+  accessibleAutocomplete.enhanceSelectElement(options)
 
 }
