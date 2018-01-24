@@ -96,14 +96,17 @@ govuk_orgs.each do |govuk_org|
     existing_org['end_date'] = govuk_org['closed_at']
   end
 
-  logo_formatted_name = govuk_org['current_name_logo_formatted'].gsub(/\n/, ' ').squeeze(' ').strip
+
+  logo_formatted_name = govuk_org['current_name_logo_formatted'].gsub(/[\n\r]/, ' ').squeeze(' ').strip
 
   if existing_org['name'] != logo_formatted_name && !existing_org['other_names'].include?(logo_formatted_name)
 
     existing_org['other_names'] << logo_formatted_name
   end
 
-  existing_org['other_names'] = (existing_org['other_names'] - [existing_org['current_name']]).sort
+  existing_org['other_names'] = existing_org['other_names'].collect {|name| name.gsub(/[\n\r]/, ' ').squeeze(' ') }
+
+  existing_org['other_names'] = (existing_org['other_names'] - [existing_org['current_name']]).uniq.sort
 
 end
 
