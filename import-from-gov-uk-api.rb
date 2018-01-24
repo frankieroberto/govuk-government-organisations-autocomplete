@@ -28,7 +28,7 @@ while url != nil do
       'current_name_logo_formatted' => result['details']['logo_formatted_name'],
       'abbreviation' => result['details']['abbreviation'],
       'format' => result['format'],
-      'govuk_status' => result['govuk_status'],
+      'status' => result['details']['govuk_status'],
       'closed_at' => result['closed_at'],
       'parents' => []
     }
@@ -94,6 +94,9 @@ govuk_orgs.each do |govuk_org|
 
   if existing_org['end_date'].nil? && govuk_org['closed_at']
     existing_org['end_date'] = govuk_org['closed_at']
+
+  elsif existing_org['end_date'].nil? && govuk_org['status'] == 'closed'
+    existing_org['end_date'] = "unknown"
   end
 
 
