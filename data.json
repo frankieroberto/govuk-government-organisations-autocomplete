@@ -5874,6 +5874,19 @@
     ]
   },
   {
+    "key": "OT1246",
+    "current_name": "Office for Product Safety and Standards",
+    "other_names": [
+      "Office for Product Safety & Standards"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "format": "Sub-organisation",
+    "parents": [
+      "D1198"
+    ]
+  },
+  {
     "key": "OT152",
     "current_name": "Industrial Development Advisory Board",
     "other_names": [
