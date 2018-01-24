@@ -289,7 +289,7 @@
     "key": "CO1163",
     "current_name": "Court of Appeal Civil Division",
     "other_names": [
-      "Court of Appeal \r Civil Division"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -380,7 +380,7 @@
     "key": "CO1224",
     "current_name": "The Business and Property Courts",
     "other_names": [
-      "The Business and\r Property Courts"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -393,7 +393,7 @@
     "key": "CO1225",
     "current_name": "The Property, Trusts and Probate List",
     "other_names": [
-      "The Property, Trusts \r and Probate List"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -406,7 +406,7 @@
     "key": "CO1226",
     "current_name": "The Intellectual Property List",
     "other_names": [
-      "The Intellectual\r Property List"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -487,7 +487,7 @@
     "key": "D1",
     "current_name": "Attorney General's Office",
     "other_names": [
-      "Attorney \r General's \r Office"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -503,7 +503,7 @@
     "key": "D10",
     "current_name": "Department for Work and Pensions",
     "other_names": [
-      "Department\r for Work & \r Pensions"
+      "Department for Work & Pensions"
     ],
     "start_date": null,
     "end_date": null,
@@ -551,7 +551,7 @@
     "key": "D103",
     "current_name": "Government Actuary's Department",
     "other_names": [
-      "Government \r Actuary's \r Department"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -583,7 +583,7 @@
     "key": "D1073",
     "current_name": "Department of Justice (Northern Ireland)",
     "other_names": [
-      "Department of Justice \r (Northern Ireland)"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -625,7 +625,7 @@
     "key": "D11",
     "current_name": "Department of Energy & Climate Change",
     "other_names": [
-      "Department \r of Energy &\r Climate Change"
+
     ],
     "start_date": null,
     "end_date": "2016-07-14",
@@ -641,7 +641,7 @@
     "key": "D110",
     "current_name": "Office of Rail Regulation",
     "other_names": [
-      "Office\r of Rail Regulation"
+
     ],
     "start_date": "2004-07-05",
     "end_date": "2015-10-16",
@@ -657,7 +657,7 @@
     "key": "D1108",
     "current_name": "Government Legal Department",
     "other_names": [
-      "Government \r Legal Department"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -673,7 +673,7 @@
     "key": "D1117",
     "current_name": "Office of Rail and Road",
     "other_names": [
-      "Office of\r Rail and Road"
+
     ],
     "start_date": "2015-10-16",
     "end_date": null,
@@ -721,7 +721,7 @@
     "key": "D117",
     "current_name": "UK Trade & Investment",
     "other_names": [
-      "UK Trade\r & Investment"
+
     ],
     "start_date": null,
     "end_date": "2016-07-13",
@@ -737,7 +737,7 @@
     "key": "D1196",
     "current_name": "Department for International Trade",
     "other_names": [
-      "Department for\r International Trade"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -753,7 +753,7 @@
     "key": "D1197",
     "current_name": "Department for Exiting the European Union",
     "other_names": [
-      "Department\r for Exiting the\r European Union"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -769,7 +769,7 @@
     "key": "D1198",
     "current_name": "Department for Business, Energy & Industrial Strategy",
     "other_names": [
-      "Department for\r Business, Energy\r & Industrial Strategy"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -785,8 +785,8 @@
     "key": "D12",
     "current_name": "Department of Health and Social Care",
     "other_names": [
-      "Department\r of Health &\r Social Care",
-      "Department of Health"
+      "Department of Health",
+      "Department of Health & Social Care"
     ],
     "start_date": null,
     "end_date": null,
@@ -802,7 +802,7 @@
     "key": "D13",
     "current_name": "Foreign & Commonwealth Office",
     "other_names": [
-      "Foreign &\r Commonwealth \r Office"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -850,7 +850,7 @@
     "key": "D17",
     "current_name": "Ministry of Defence",
     "other_names": [
-      "Ministry\r of Defence"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -866,7 +866,7 @@
     "key": "D18",
     "current_name": "Ministry of Justice",
     "other_names": [
-      "Ministry\r of Justice"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -882,7 +882,7 @@
     "key": "D19",
     "current_name": "Northern Ireland Office",
     "other_names": [
-      "Northern\r Ireland\r Office"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -911,7 +911,7 @@
     "key": "D20",
     "current_name": "Office of the Advocate General for Scotland",
     "other_names": [
-      "Office of the\r Advocate General\r for Scotland"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -927,7 +927,7 @@
     "key": "D21",
     "current_name": "Office of the Leader of the House of Commons",
     "other_names": [
-      "Office of the \r Leader of the \r House of Commons"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -943,7 +943,7 @@
     "key": "D22",
     "current_name": "Office of the Leader of the House of Lords",
     "other_names": [
-      "Office of the\r Leader of the\r House of Lords"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -972,7 +972,7 @@
     "key": "D24",
     "current_name": "Office of the Secretary of State for Wales",
     "other_names": [
-      "Office of the Secretary of State for Wales\r Swyddfa Ysgrifennydd Gwladol Cymru"
+      "Office of the Secretary of State for Wales Swyddfa Ysgrifennydd Gwladol Cymru"
     ],
     "start_date": null,
     "end_date": null,
@@ -1004,7 +1004,7 @@
     "key": "D241",
     "current_name": "UK Export Finance",
     "other_names": [
-      "UK Export \r Finance"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1020,7 +1020,7 @@
     "key": "D25",
     "current_name": "HM Revenue & Customs",
     "other_names": [
-      "HM Revenue\r & Customs"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1036,7 +1036,7 @@
     "key": "D3",
     "current_name": "Department for Business, Innovation & Skills",
     "other_names": [
-      "Department \r for Business\r Innovation & Skills"
+      "Department for Business Innovation & Skills"
     ],
     "start_date": null,
     "end_date": "2016-07-14",
@@ -1052,7 +1052,7 @@
     "key": "D30",
     "current_name": "Treasury Solicitor’s Department",
     "other_names": [
-      "Treasury \r Solicitor’s \r Department"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1117,7 +1117,6 @@
     "current_name": "Ministry of Housing, Communities and Local Government",
     "other_names": [
       "Department for Communities and Local Government",
-      "Ministry of Housing,\r Communities &\r Local Government",
       "Ministry of Housing, Communities & Local Government"
     ],
     "start_date": null,
@@ -1135,7 +1134,7 @@
     "key": "D435",
     "current_name": "Supreme Court of the United Kingdom",
     "other_names": [
-      "Supreme Court \r of the \r United Kingdom"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1151,8 +1150,8 @@
     "key": "D5",
     "current_name": "Department for Digital, Culture, Media and Sport",
     "other_names": [
-      "Department for\r Digital, Culture\r Media & Sport",
       "Department for Culture, Media & Sport",
+      "Department for Digital, Culture Media & Sport",
       "Department for Digital, Culture, Media & Sport",
       "Digital, Culture, Media and Sport"
     ],
@@ -1170,7 +1169,7 @@
     "key": "D550",
     "current_name": "Competition and Markets Authority",
     "other_names": [
-      "Competition and \r Markets Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1303,7 +1302,7 @@
     "key": "D6",
     "current_name": "Department for Education",
     "other_names": [
-      "Department \r for Education"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1400,7 +1399,7 @@
     "key": "D7",
     "current_name": "Department for Environment, Food & Rural Affairs",
     "other_names": [
-      "Department\r for Environment\r Food & Rural Affairs"
+      "Department for Environment Food & Rural Affairs"
     ],
     "start_date": null,
     "end_date": null,
@@ -1481,7 +1480,7 @@
     "key": "D8",
     "current_name": "Department for International Development",
     "other_names": [
-      "Department\r for International \r Development"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1539,7 +1538,7 @@
     "key": "D9",
     "current_name": "Department for Transport",
     "other_names": [
-      "Department\r for Transport"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1584,7 +1583,7 @@
     "key": "DA1019",
     "current_name": "Welsh Government",
     "other_names": [
-      "Welsh\r Government"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1597,7 +1596,6 @@
     "key": "DA1020",
     "current_name": "Scottish Government",
     "other_names": [
-      "Scottish \r Government",
       "The Scottish Government"
     ],
     "start_date": null,
@@ -1656,7 +1654,7 @@
     "key": "EA1015",
     "current_name": "Crown Commercial Service",
     "other_names": [
-      "Crown\r Commercial \r Service"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1688,7 +1686,7 @@
     "key": "EA1079",
     "current_name": "Animal and Plant Health Agency",
     "other_names": [
-      "Animal &\r Plant Health\r Agency"
+      "Animal & Plant Health Agency"
     ],
     "start_date": null,
     "end_date": null,
@@ -1706,7 +1704,7 @@
     "key": "EA1084",
     "current_name": "Government Internal Audit Agency",
     "other_names": [
-      "Government \r Internal Audit \r Agency"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1739,7 +1737,7 @@
     "key": "EA1113",
     "current_name": "Defence Electronics and Components Agency",
     "other_names": [
-      "Defence Electronics &\r Components Agency"
+      "Defence Electronics & Components Agency"
     ],
     "start_date": null,
     "end_date": null,
@@ -1771,7 +1769,7 @@
     "key": "EA1119",
     "current_name": "Oil and Gas Authority",
     "other_names": [
-      "Oil & Gas\r Authority"
+      "Oil & Gas Authority"
     ],
     "start_date": null,
     "end_date": null,
@@ -1835,7 +1833,7 @@
     "key": "EA242",
     "current_name": "Education Funding Agency",
     "other_names": [
-      "Education\r Funding\r Agency"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1851,7 +1849,7 @@
     "key": "EA243",
     "current_name": "Standards and Testing Agency",
     "other_names": [
-      "Standards\r & Testing\r Agency"
+      "Standards & Testing Agency"
     ],
     "start_date": null,
     "end_date": null,
@@ -1896,7 +1894,7 @@
     "key": "EA32",
     "current_name": "The Insolvency Service",
     "other_names": [
-      "The Insolvency \r Service"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1928,7 +1926,7 @@
     "key": "EA33",
     "current_name": "National Measurement Office",
     "other_names": [
-      "National \r Measurement \r Office"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1944,7 +1942,7 @@
     "key": "EA34",
     "current_name": "Intellectual Property Office",
     "other_names": [
-      "Intellectual\r Property \r Office"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -1992,7 +1990,7 @@
     "key": "EA39",
     "current_name": "Planning Inspectorate",
     "other_names": [
-      "Planning\r Inspectorate"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -2009,7 +2007,7 @@
     "key": "EA40",
     "current_name": "Queen Elizabeth II Conference Centre",
     "other_names": [
-      "Queen Elizabeth II \r Conference Centre"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -2086,7 +2084,7 @@
     "key": "EA480",
     "current_name": "Public Health England",
     "other_names": [
-      "Public Health \r England"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -2118,7 +2116,7 @@
     "key": "EA50",
     "current_name": "Service Personnel and Veterans Agency",
     "other_names": [
-      "Service Personnel \r and Veterans Agency"
+
     ],
     "start_date": null,
     "end_date": "2014-04-01",
@@ -2150,7 +2148,7 @@
     "key": "EA52",
     "current_name": "Animal Health and Veterinary Laboratories Agency",
     "other_names": [
-      "Animal Health and \r Veterinary Laboratories \r Agency"
+
     ],
     "start_date": null,
     "end_date": "2011-04-01",
@@ -2166,7 +2164,7 @@
     "key": "EA53",
     "current_name": "Centre for Environment, Fisheries and Aquaculture Science",
     "other_names": [
-      "Centre for Environment\r Fisheries and Aquaculture \r Science"
+      "Centre for Environment Fisheries and Aquaculture Science"
     ],
     "start_date": null,
     "end_date": null,
@@ -2195,7 +2193,7 @@
     "key": "EA541",
     "current_name": "National College for Teaching and Leadership",
     "other_names": [
-      "National College for \r Teaching & Leadership"
+      "National College for Teaching & Leadership"
     ],
     "start_date": null,
     "end_date": null,
@@ -2227,7 +2225,7 @@
     "key": "EA556",
     "current_name": "Legal Aid Agency",
     "other_names": [
-      "Legal Aid \r Agency"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -2243,7 +2241,7 @@
     "key": "EA56",
     "current_name": "The Food and Environment Research Agency",
     "other_names": [
-      "The Food and Environment \r Research Agency"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -2259,7 +2257,7 @@
     "key": "EA570",
     "current_name": "Driver and Vehicle Standards Agency",
     "other_names": [
-      "Driver & Vehicle\r Standards\r Agency"
+      "Driver & Vehicle Standards Agency"
     ],
     "start_date": null,
     "end_date": null,
@@ -2275,7 +2273,7 @@
     "key": "EA58",
     "current_name": "Rural Payments Agency",
     "other_names": [
-      "Rural Payments \r Agency"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -2291,7 +2289,7 @@
     "key": "EA60",
     "current_name": "Veterinary Medicines Directorate",
     "other_names": [
-      "Veterinary \r Medicines \r Directorate"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -2368,7 +2366,7 @@
     "key": "EA63",
     "current_name": "Medicines and Healthcare products Regulatory Agency",
     "other_names": [
-      "Medicines & Healthcare products\r Regulatory Agency"
+      "Medicines & Healthcare products Regulatory Agency"
     ],
     "start_date": null,
     "end_date": null,
@@ -2423,7 +2421,7 @@
     "key": "EA66",
     "current_name": "HM Passport Office",
     "other_names": [
-      "HM Passport\r Office"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -2598,7 +2596,7 @@
     "key": "EA70",
     "current_name": "National Offender Management Service",
     "other_names": [
-      "National Offender \r Management Service"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -2750,7 +2748,7 @@
     "key": "EA72",
     "current_name": "Office of the Public Guardian",
     "other_names": [
-      "Office of the \r Public Guardian"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -2792,7 +2790,7 @@
     "key": "EA73",
     "current_name": "HM Courts & Tribunals Service",
     "other_names": [
-      "HM Courts & \r Tribunals Service"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -2821,7 +2819,7 @@
     "key": "EA74",
     "current_name": "Driver and Vehicle Licensing Agency",
     "other_names": [
-      "Driver & Vehicle\r Licensing\r Agency"
+      "Driver & Vehicle Licensing Agency"
     ],
     "start_date": null,
     "end_date": null,
@@ -2850,7 +2848,7 @@
     "key": "EA75",
     "current_name": "Driving Standards Agency",
     "other_names": [
-      "Driving\r Standards\r Agency"
+
     ],
     "start_date": null,
     "end_date": "2014-04-01",
@@ -2918,7 +2916,7 @@
     "key": "EA77",
     "current_name": "Highways Agency",
     "other_names": [
-      "Highways\r Agency"
+
     ],
     "start_date": null,
     "end_date": "2015-04-01",
@@ -2947,7 +2945,7 @@
     "key": "EA78",
     "current_name": "Maritime and Coastguard Agency",
     "other_names": [
-      "Maritime &\r Coastguard \r Agency"
+      "Maritime & Coastguard Agency"
     ],
     "start_date": null,
     "end_date": null,
@@ -3015,7 +3013,7 @@
     "key": "EA79",
     "current_name": "Vehicle and Operator Services Agency",
     "other_names": [
-      "Vehicle & Operator \r Services Agency"
+      "Vehicle & Operator Services Agency"
     ],
     "start_date": null,
     "end_date": "2014-04-01",
@@ -3086,7 +3084,7 @@
     "key": "EA80",
     "current_name": "Vehicle Certification Agency",
     "other_names": [
-      "Vehicle\r Certification\r Agency"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -3154,7 +3152,7 @@
     "key": "EA82",
     "current_name": "UK Debt Management Office",
     "other_names": [
-      "United Kingdom\r Debt Management\r Office"
+      "United Kingdom Debt Management Office"
     ],
     "start_date": null,
     "end_date": null,
@@ -3326,7 +3324,7 @@
     "key": "EA86",
     "current_name": "Skills Funding Agency",
     "other_names": [
-      "Skills Funding \r Agency"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -3734,7 +3732,7 @@
     "key": "EO1216",
     "current_name": "Education and Skills Funding Agency",
     "other_names": [
-      "Education & Skills \r Funding Agency"
+      "Education & Skills Funding Agency"
     ],
     "start_date": null,
     "end_date": null,
@@ -3866,7 +3864,7 @@
     "key": "IM333",
     "current_name": "Judicial Appointments and Conduct Ombudsman",
     "other_names": [
-      "Judicial Appointments and \r Conduct Ombudsman"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -3882,7 +3880,7 @@
     "key": "IM335",
     "current_name": "Independent Commission for Aid Impact",
     "other_names": [
-      "Independent Commission \r for Aid Impact"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -3898,7 +3896,7 @@
     "key": "IM341",
     "current_name": "House of Lords Appointments Commission",
     "other_names": [
-      "House of Lords \r Appointments \r Commission"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -4125,7 +4123,7 @@
     "key": "OT1016",
     "current_name": "Bank of England",
     "other_names": [
-      "Bank of\r England"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -4199,7 +4197,7 @@
     "key": "OT1026",
     "current_name": "Department for International Trade Defence & Security Organisation",
     "other_names": [
-      "Department for International Trade\r Defence & Security\r Organisation"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -4215,7 +4213,7 @@
     "key": "OT1027",
     "current_name": "Office of the Schools Adjudicator",
     "other_names": [
-      "Office of \r the Schools \r Adjudicator"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -4299,7 +4297,7 @@
     "key": "OT1034",
     "current_name": "Government Communication Service",
     "other_names": [
-      "Government\r Communication \r Service"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -4626,7 +4624,7 @@
     "key": "OT1058",
     "current_name": "The Jeffrey Review",
     "other_names": [
-      "The Jeffrey \r Review"
+
     ],
     "start_date": null,
     "end_date": "2014-05",
@@ -4719,7 +4717,7 @@
     "key": "OT1066",
     "current_name": "Office for Disability Issues",
     "other_names": [
-      "Office for \r Disability Issues"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -4797,7 +4795,7 @@
     "key": "OT1071",
     "current_name": "Military Aviation Authority",
     "other_names": [
-      "Military\r Aviation\r Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -4858,7 +4856,7 @@
     "key": "OT1077",
     "current_name": "Public Health Wales",
     "other_names": [
-      "Public Health\r Wales"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -4964,7 +4962,7 @@
     "key": "OT1088",
     "current_name": "Higher Education Statistics Agency",
     "other_names": [
-      "Higher Education\r Statistics Agency"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5060,7 +5058,7 @@
     "key": "OT1101",
     "current_name": "Welsh Language Commissioner",
     "other_names": [
-      "Welsh Language \r Commissioner"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5086,7 +5084,7 @@
     "key": "OT1103",
     "current_name": "Natural Resources Wales",
     "other_names": [
-      "Natural \r Resources \r Wales"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5099,7 +5097,7 @@
     "key": "OT1104",
     "current_name": "NHS Wales Informatics Service",
     "other_names": [
-      "NHS Wales \r Informatics Service"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5203,7 +5201,7 @@
     "key": "OT1137",
     "current_name": "Accelerated Access Review",
     "other_names": [
-      "Accelerated \r Access \r Review"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5219,7 +5217,7 @@
     "key": "OT1148",
     "current_name": "British Business Bank",
     "other_names": [
-      "British\r Business\r Bank"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5235,7 +5233,7 @@
     "key": "OT1150",
     "current_name": "Radioactive Waste Management",
     "other_names": [
-      "Radioactive\r Waste\r Management"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5267,7 +5265,7 @@
     "key": "OT1153",
     "current_name": "Defence and Security Media Advisory Committee",
     "other_names": [
-      "Defence and \r Security Media\r Advisory Committee"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5283,7 +5281,7 @@
     "key": "OT1161",
     "current_name": "National Infrastructure Commission",
     "other_names": [
-      "National Infrastructure\r Commission"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5296,7 +5294,7 @@
     "key": "OT1166",
     "current_name": "Infrastructure and Projects Authority",
     "other_names": [
-      "Infrastructure \r and Projects \r Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5355,7 +5353,7 @@
     "key": "OT1173",
     "current_name": "Department for Communities (Northern Ireland)",
     "other_names": [
-      "Department for Communities \r (Northern Ireland)"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5368,7 +5366,7 @@
     "key": "OT1174",
     "current_name": "Department for the Economy (Northern Ireland)",
     "other_names": [
-      "Department for \r the Economy\r (Northern Ireland)"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5394,7 +5392,7 @@
     "key": "OT1176",
     "current_name": "Department for Infrastructure (Northern Ireland)",
     "other_names": [
-      "Department for Infrastructure \r (Northern Ireland)"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5446,7 +5444,7 @@
     "key": "OT1180",
     "current_name": "National Data Guardian",
     "other_names": [
-      "National Data\r Guardian"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5491,7 +5489,7 @@
     "key": "OT1186",
     "current_name": "UK Government Investments",
     "other_names": [
-      "UK Government\r Investments"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5507,7 +5505,7 @@
     "key": "OT1187",
     "current_name": "Office of Financial Sanctions Implementation",
     "other_names": [
-      "Office of Financial\r Sanctions Implementation\r HM Treasury"
+      "Office of Financial Sanctions Implementation HM Treasury"
     ],
     "start_date": null,
     "end_date": null,
@@ -5549,7 +5547,7 @@
     "key": "OT1191",
     "current_name": "Defence Safety Authority",
     "other_names": [
-      "Defence\r Safety \r Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5594,7 +5592,7 @@
     "key": "OT1200",
     "current_name": "Civil Service Board",
     "other_names": [
-      "Civil Service\r Board"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5607,7 +5605,7 @@
     "key": "OT1201",
     "current_name": "Cabinet Office Board",
     "other_names": [
-      "Cabinet Office \r Board"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5620,7 +5618,7 @@
     "key": "OT1206",
     "current_name": "Defence and Security Accelerator",
     "other_names": [
-      "Defence and Security \r Accelerator"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5649,7 +5647,7 @@
     "key": "OT1208",
     "current_name": "Academy for Social Justice Commissioning",
     "other_names": [
-      "Academy for Social Justice \r Commissioning"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5710,7 +5708,7 @@
     "key": "OT1215",
     "current_name": "Judicial Office",
     "other_names": [
-      "Judicial\r Office"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5772,7 +5770,7 @@
     "key": "OT1235",
     "current_name": "College of Policing",
     "other_names": [
-      "College of \r Policing"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5798,7 +5796,7 @@
     "key": "OT1238",
     "current_name": "Dounreay Site Restoration Ltd",
     "other_names": [
-      "Dounreay Site \r Restoration Ltd"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5824,7 +5822,7 @@
     "key": "OT1240",
     "current_name": "Low Level Waste Repository Ltd",
     "other_names": [
-      "Low Level Waste \r Repository Ltd"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5850,7 +5848,7 @@
     "key": "OT1243",
     "current_name": "NHS Counter Fraud Agency",
     "other_names": [
-
+      "NHS Counter Fraud Authority"
     ],
     "start_date": null,
     "end_date": null,
@@ -5879,7 +5877,7 @@
     "key": "OT152",
     "current_name": "Industrial Development Advisory Board",
     "other_names": [
-      "Industrial Development \r Advisory Board"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5895,7 +5893,7 @@
     "key": "OT204",
     "current_name": "Agriculture and Horticulture Development Board",
     "other_names": [
-      "Agriculture and Horticulture \r Development Board"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5956,7 +5954,7 @@
     "key": "OT217",
     "current_name": "Dartmoor National Park Authority",
     "other_names": [
-      "Dartmoor National \r Park Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5972,7 +5970,7 @@
     "key": "OT219",
     "current_name": "Exmoor National Park Authority",
     "other_names": [
-      "Exmoor National \r Park Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -5988,7 +5986,7 @@
     "key": "OT220",
     "current_name": "Lake District National Park Authority",
     "other_names": [
-      "Lake District \r National Park Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6004,7 +6002,7 @@
     "key": "OT222",
     "current_name": "New Forest National Park Authority",
     "other_names": [
-      "New Forest \r National Park Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6020,7 +6018,7 @@
     "key": "OT223",
     "current_name": "North York Moors National Park Authority",
     "other_names": [
-      "North York Moors \r National Park Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6052,7 +6050,7 @@
     "key": "OT248",
     "current_name": "Air Accidents Investigation Branch",
     "other_names": [
-      "Air Accidents\r Investigation Branch"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6068,7 +6066,7 @@
     "key": "OT249",
     "current_name": "Rail Accident Investigation Branch",
     "other_names": [
-      "Rail Accident\r Investigation Branch"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6084,7 +6082,7 @@
     "key": "OT261",
     "current_name": "Office of Tax Simplification",
     "other_names": [
-      "Office of\r Tax Simplification"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6133,7 +6131,7 @@
     "key": "OT284",
     "current_name": "Independent Chief Inspector of Borders and Immigration",
     "other_names": [
-      "Independent \r Chief Inspector \r of Borders and \r Immigration"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6213,7 +6211,7 @@
     "key": "OT315",
     "current_name": "Marshall Aid Commemoration Commission",
     "other_names": [
-      "Marshall Aid \r Commemoration Commission"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6229,7 +6227,7 @@
     "key": "OT316",
     "current_name": "Westminster Foundation for Democracy",
     "other_names": [
-      "Westminster \r Foundation for \r Democracy"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6242,7 +6240,7 @@
     "key": "OT328",
     "current_name": "Official Solicitor and Public Trustee",
     "other_names": [
-      "Official Solicitor \r and Public Trustee"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6274,7 +6272,7 @@
     "key": "OT347",
     "current_name": "HM Crown Prosecution Service Inspectorate",
     "other_names": [
-      "HM Crown Prosecution \r Service Inspectorate"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6338,7 +6336,7 @@
     "key": "OT405",
     "current_name": "Defence Academy of the United Kingdom",
     "other_names": [
-      "Defence Academy\r of the United Kingdom"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6354,7 +6352,7 @@
     "key": "OT406",
     "current_name": "Service Prosecuting Authority",
     "other_names": [
-      "Service \r Prosecuting \r Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6370,7 +6368,7 @@
     "key": "OT408",
     "current_name": "Defence, Press and Broadcasting Advisory Committee",
     "other_names": [
-      "Defence, Press and \r Broadcasting Advisory Committee"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6482,7 +6480,7 @@
     "key": "OT431",
     "current_name": "Boundary Commission for Scotland",
     "other_names": [
-      "Boundary Commission \r for Scotland"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6498,7 +6496,7 @@
     "key": "OT432",
     "current_name": "Boundary Commission for Wales",
     "other_names": [
-      "Boundary \r Commission \r for Wales"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6543,7 +6541,7 @@
     "key": "OT483",
     "current_name": "Health Research Authority",
     "other_names": [
-      "The Health \r Research \r Authority"
+      "The Health Research Authority"
     ],
     "start_date": null,
     "end_date": null,
@@ -6636,7 +6634,7 @@
     "key": "OT495",
     "current_name": "Defence Equipment and Support",
     "other_names": [
-      "Defence Equipment \r and Support"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6730,7 +6728,7 @@
     "key": "OT506",
     "current_name": "Government Equalities Office",
     "other_names": [
-      "Government\r Equalities Office"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6762,7 +6760,7 @@
     "key": "OT511",
     "current_name": "Independent Reviewer of Terrorism Legislation",
     "other_names": [
-      "Independent Reviewer \r of Terrorism Legislation"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6778,7 +6776,7 @@
     "key": "OT512",
     "current_name": "Intelligence Services Commissioner",
     "other_names": [
-      "Intelligence \r Services \r Commissioner"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6794,7 +6792,7 @@
     "key": "OT513",
     "current_name": "Interception of Communications Commissioner",
     "other_names": [
-      "Interception of \r Communications \r Commissioner"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6843,7 +6841,7 @@
     "key": "OT517",
     "current_name": "Commissioner for Public Appointments",
     "other_names": [
-      "Commissioner for \r Public Appointments"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6872,7 +6870,7 @@
     "key": "OT519",
     "current_name": "The Parliamentary and Health Service Ombudsman",
     "other_names": [
-      "The Parliamentary \r and Health Service\r Ombudsman"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6904,7 +6902,7 @@
     "key": "OT522",
     "current_name": "Advisory Committee on Clinical Excellence Awards",
     "other_names": [
-      "Advisory Committee on \r Clinical Excellence \r Awards"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6920,7 +6918,7 @@
     "key": "OT529",
     "current_name": "NHS Business Services Authority",
     "other_names": [
-      "NHS \r Business Services \r Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6952,7 +6950,7 @@
     "key": "OT533",
     "current_name": "Broadmoor Hospital investigation",
     "other_names": [
-      "Broadmoor\r Hospital\r investigation"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -6981,7 +6979,7 @@
     "key": "OT536",
     "current_name": "Forensic Science Regulator",
     "other_names": [
-      "Forensic Science \r Regulator"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -7013,7 +7011,7 @@
     "key": "OT538",
     "current_name": "Health and Social Care Information Centre",
     "other_names": [
-      "Health and \r Social Care \r Information Centre"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -7029,7 +7027,7 @@
     "key": "OT539",
     "current_name": "Health Education England",
     "other_names": [
-      "Health \r Education\r England"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -7061,7 +7059,7 @@
     "key": "OT543",
     "current_name": "Northumberland National Park Authority",
     "other_names": [
-      "Northumberland \r National Park \r Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -7074,7 +7072,7 @@
     "key": "OT545",
     "current_name": "Peak District National Park Authority",
     "other_names": [
-      "Peak District\r National Park Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -7090,7 +7088,7 @@
     "key": "OT546",
     "current_name": "South Downs National Park Authority",
     "other_names": [
-      "South Downs\r National Park Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -7106,7 +7104,7 @@
     "key": "OT547",
     "current_name": "Yorkshire Dales National Park Authority",
     "other_names": [
-      "Yorkshire Dales \r National Park Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -7122,7 +7120,7 @@
     "key": "OT548",
     "current_name": "Biometrics Commissioner",
     "other_names": [
-      "Biometrics\r Commissioner"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -7135,7 +7133,7 @@
     "key": "OT549",
     "current_name": "Government Estates Management",
     "other_names": [
-      "Government Estates\r Management"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -7167,7 +7165,7 @@
     "key": "OT552",
     "current_name": "Surveillance Camera Commissioner",
     "other_names": [
-      "Surveillance \r Camera \r Commissioner"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -7215,7 +7213,7 @@
     "key": "OT555",
     "current_name": "Government Office for Science",
     "other_names": [
-      "Government \r Office for Science"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -7296,7 +7294,7 @@
     "key": "OT565",
     "current_name": "Morecambe Bay Investigation",
     "other_names": [
-      "Morecambe Bay \r Investigation"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -7325,7 +7323,7 @@
     "key": "OT567",
     "current_name": "Centre for the Protection of National Infrastructure",
     "other_names": [
-      "Centre for the Protection \r of National Infrastructure"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -7342,7 +7340,7 @@
     "key": "OT569",
     "current_name": "Better Regulation Delivery Office",
     "other_names": [
-      "Better\r Regulation\r Delivery Office"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -10967,7 +10965,7 @@
     "key": "PB1072",
     "current_name": "Agri-Food and Biosciences Institute (Northern Ireland)",
     "other_names": [
-      "Agri-Food and \r Biosciences Institute"
+      "Agri-Food and Biosciences Institute"
     ],
     "start_date": null,
     "end_date": null,
@@ -11132,7 +11130,7 @@
     "key": "PB1149",
     "current_name": "Independent Commission on Freedom of Information",
     "other_names": [
-      "Independent Commission on \r Freedom of Information"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11161,7 +11159,7 @@
     "key": "PB1154",
     "current_name": "Ebbsfleet Development Corporation",
     "other_names": [
-      "Ebbsfleet\r Development\r Corporation"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11190,7 +11188,7 @@
     "key": "PB1171",
     "current_name": "UK Holocaust Memorial Foundation",
     "other_names": [
-      "UK Holocaust \r Memorial \r Foundation"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11207,7 +11205,7 @@
     "key": "PB1172",
     "current_name": "Committee on Fuel Poverty",
     "other_names": [
-      "Committee on \r Fuel Poverty"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11252,7 +11250,7 @@
     "key": "PB1193",
     "current_name": "Social Mobility Commission",
     "other_names": [
-      "Social\r Mobility \r Commission"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11266,7 +11264,7 @@
     "key": "PB1194",
     "current_name": "Central Advisory Committee on Compensation",
     "other_names": [
-      "Central Advisory Committee \r on Compensation"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11295,7 +11293,7 @@
     "key": "PB120",
     "current_name": "Higher Education Funding Council for England",
     "other_names": [
-      "Higher Education Funding \r Council for England"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11311,7 +11309,7 @@
     "key": "PB1202",
     "current_name": "NHS Digital",
     "other_names": [
-      "NHS\r Digital"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11324,7 +11322,7 @@
     "key": "PB1204",
     "current_name": "Valuation Tribunal for England",
     "other_names": [
-      "Valuation \r Tribunal for \r England"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11340,7 +11338,7 @@
     "key": "PB121",
     "current_name": "Council for Science and Technology",
     "other_names": [
-      "Council for \r Science and \r Technology"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11372,7 +11370,7 @@
     "key": "PB1214",
     "current_name": "Institute for Apprenticeships",
     "other_names": [
-      "Institute for\r Apprenticeships"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11388,7 +11386,7 @@
     "key": "PB1218",
     "current_name": "Regulator of Social Housing",
     "other_names": [
-      "Regulator of \r Social Housing"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11404,7 +11402,7 @@
     "key": "PB1219",
     "current_name": "Independent Parliamentary Standards Authority",
     "other_names": [
-      "Independent\r Parliamentary\r Standards Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11452,7 +11450,7 @@
     "key": "PB1222",
     "current_name": "Biometrics and Forensics Ethics Group",
     "other_names": [
-      "Biometrics and Forensics \r Ethics Group"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11510,7 +11508,7 @@
     "key": "PB124",
     "current_name": "British Hallmarking Council",
     "other_names": [
-      "British \r Hallmarking \r Council"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11539,7 +11537,7 @@
     "key": "PB126",
     "current_name": "Construction Industry Training Board",
     "other_names": [
-      "Construction Industry\r Training Board"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11555,7 +11553,7 @@
     "key": "PB129",
     "current_name": "Economic and Social Research Council",
     "other_names": [
-      "Economic and Social \r Research Council"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11571,7 +11569,7 @@
     "key": "PB130",
     "current_name": "Engineering and Physical Sciences Research Council",
     "other_names": [
-      "Engineering and Physical Sciences \r Research Council"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11587,7 +11585,7 @@
     "key": "PB131",
     "current_name": "Engineering Construction Industry Training Board",
     "other_names": [
-      "Engineering Construction \r Industry Training Board"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11651,7 +11649,7 @@
     "key": "PB135",
     "current_name": "Science and Technology Facilities Council",
     "other_names": [
-      "Science and Technology \r Facilities Council"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11680,7 +11678,7 @@
     "key": "PB137",
     "current_name": "UK Atomic Energy Authority",
     "other_names": [
-      "UK Atomic \r Energy \r Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11696,7 +11694,7 @@
     "key": "PB138",
     "current_name": "UK Commission for Employment and Skills",
     "other_names": [
-      "UK Commission \r for Employment \r and Skills"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11792,7 +11790,7 @@
     "key": "PB160",
     "current_name": "Building Regulations Advisory Committee",
     "other_names": [
-      "Building Regulations \r Advisory Committee"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -11808,7 +11806,7 @@
     "key": "PB161",
     "current_name": "Homes and Communities Agency",
     "other_names": [
-      "Homes &\r Communities \r Agency"
+      "Homes & Communities Agency"
     ],
     "start_date": null,
     "end_date": null,
@@ -12039,7 +12037,7 @@
     "key": "PB181",
     "current_name": "Olympic Delivery Authority",
     "other_names": [
-      "Olympic \r Delivery \r Authority"
+
     ],
     "start_date": null,
     "end_date": "2014-12-02",
@@ -12196,7 +12194,7 @@
     "key": "PB191",
     "current_name": "Committee on Radioactive Waste Management",
     "other_names": [
-      "Committee \r on Radioactive Waste \r Management"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12212,7 +12210,7 @@
     "key": "PB192",
     "current_name": "Fuel Poverty Advisory Group",
     "other_names": [
-      "Fuel Poverty \r Advisory Group"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12228,7 +12226,7 @@
     "key": "PB193",
     "current_name": "Nuclear Liabilities Financing Assurance Board",
     "other_names": [
-      "Nuclear Liabilities \r Financing Assurance Board"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12244,7 +12242,7 @@
     "key": "PB194",
     "current_name": "Civil Nuclear Police Authority",
     "other_names": [
-      "Civil Nuclear \r Police Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12260,7 +12258,7 @@
     "key": "PB195",
     "current_name": "Coal Authority",
     "other_names": [
-      "Coal \r Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12273,7 +12271,7 @@
     "key": "PB196",
     "current_name": "Committee on Climate Change",
     "other_names": [
-      "Committee on \r Climate Change"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12289,7 +12287,7 @@
     "key": "PB197",
     "current_name": "Nuclear Decommissioning Authority",
     "other_names": [
-      "Nuclear \r Decommissioning \r Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12305,7 +12303,7 @@
     "key": "PB198",
     "current_name": "Consumer Council for Water",
     "other_names": [
-      "Consumer Council \r for Water"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12321,9 +12319,7 @@
     "key": "PB200",
     "current_name": "Gangmasters and Labour Abuse Authority",
     "other_names": [
-      "Gangmasters \r Licensing Authority",
-      "Gangmasters Licensing Authority",
-      "Gangmasters and\r Labour Abuse Authority"
+      "Gangmasters Licensing Authority"
     ],
     "start_date": null,
     "end_date": null,
@@ -12340,7 +12336,7 @@
     "key": "PB201",
     "current_name": "Joint Nature Conservation Committee",
     "other_names": [
-      "Joint Nature \r Conservation \r Committee"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12372,7 +12368,7 @@
     "key": "PB207",
     "current_name": "Health and Safety Executive",
     "other_names": [
-      "Health and Safety\r Executive"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12388,7 +12384,7 @@
     "key": "PB208",
     "current_name": "Advisory Committee on Pesticides",
     "other_names": [
-      "Advisory Committee \r on Pesticides"
+
     ],
     "start_date": null,
     "end_date": "2015-03",
@@ -12404,7 +12400,7 @@
     "key": "PB209",
     "current_name": "Advisory Committee on Releases to the Environment",
     "other_names": [
-      "Advisory Committee \r on Releases to \r the Environment"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12420,7 +12416,7 @@
     "key": "PB210",
     "current_name": "Independent Agricultural Appeals Panel",
     "other_names": [
-      "Independent Agricultural \r Appeals Panel"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12437,7 +12433,7 @@
     "key": "PB211",
     "current_name": "Science Advisory Council",
     "other_names": [
-      "Science \r Advisory \r Council"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12453,7 +12449,7 @@
     "key": "PB212",
     "current_name": "Veterinary Products Committee",
     "other_names": [
-      "Veterinary \r Products \r Committee"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12613,7 +12609,7 @@
     "key": "PB247",
     "current_name": "Disabled Persons Transport Advisory Committee",
     "other_names": [
-      "Disabled Persons \r Transport Advisory Committee (DPTAC)"
+      "Disabled Persons Transport Advisory Committee (DPTAC)"
     ],
     "start_date": null,
     "end_date": null,
@@ -12629,7 +12625,7 @@
     "key": "PB251",
     "current_name": "Care Quality Commission",
     "other_names": [
-      "Care Quality \r Commission"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12645,7 +12641,7 @@
     "key": "PB253",
     "current_name": "Human Fertilisation and Embryology Authority",
     "other_names": [
-      "Human Fertilisation \r and Embryology \r Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12661,7 +12657,7 @@
     "key": "PB254",
     "current_name": "Human Tissue Authority",
     "other_names": [
-      "Human Tissue \r Authority"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12709,7 +12705,7 @@
     "key": "PB260",
     "current_name": "Office for Budget Responsibility",
     "other_names": [
-      "Office for\r Budget\r Responsibility"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12821,7 +12817,7 @@
     "key": "PB271",
     "current_name": "Advisory Council on the Misuse of Drugs",
     "other_names": [
-      "Advisory Council on \r the Misuse of Drugs"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12869,7 +12865,7 @@
     "key": "PB275",
     "current_name": "Migration Advisory Committee",
     "other_names": [
-      "Migration Advisory \r Committee"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12885,7 +12881,7 @@
     "key": "PB276",
     "current_name": "National DNA Database Ethics Group",
     "other_names": [
-      "National DNA \r Database \r Ethics Group"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -12901,7 +12897,7 @@
     "key": "PB277",
     "current_name": "Police Arbitration Tribunal",
     "other_names": [
-      "Police Arbitration \r Tribunal"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13026,7 +13022,7 @@
     "key": "PB295",
     "current_name": "Sentencing Council for England and Wales",
     "other_names": [
-      "Sentencing Council \r for England and Wales"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13042,7 +13038,7 @@
     "key": "PB296",
     "current_name": "Victims' Advisory Panel",
     "other_names": [
-      "Victims' \r Advisory \r Panel"
+
     ],
     "start_date": null,
     "end_date": "2013-07-24",
@@ -13135,7 +13131,7 @@
     "key": "PB302",
     "current_name": "Youth Justice Board for England and Wales",
     "other_names": [
-      "Youth Justice Board \r for England and Wales"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13183,7 +13179,7 @@
     "key": "PB310",
     "current_name": "Royal Marines Museum",
     "other_names": [
-      "Royal Marines \r Museum"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13199,7 +13195,7 @@
     "key": "PB311",
     "current_name": "Fleet Air Arm Museum",
     "other_names": [
-      "Fleet Air \r Arm Museum"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13212,7 +13208,7 @@
     "key": "PB317",
     "current_name": "Biotechnology and Biological Sciences Research Council",
     "other_names": [
-      "Biotechnology & Biological Sciences\r Research Council"
+      "Biotechnology & Biological Sciences Research Council"
     ],
     "start_date": null,
     "end_date": null,
@@ -13289,7 +13285,7 @@
     "key": "PB348",
     "current_name": "Pension Protection Fund",
     "other_names": [
-      "Pension \r Protection Fund"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13305,7 +13301,7 @@
     "key": "PB349",
     "current_name": "Independent Living Fund",
     "other_names": [
-      "Independent\r Living Fund"
+
     ],
     "start_date": null,
     "end_date": "2015-06-30",
@@ -13603,7 +13599,7 @@
     "key": "PB382",
     "current_name": "The Reviewing Committee on the Export of Works of Art and Objects of Cultural Interest",
     "other_names": [
-      "The Reviewing Committee \r on the Export of Works of Art \r and Objects of Cultural Interest"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13635,7 +13631,7 @@
     "key": "PB392",
     "current_name": "Advisory Committee on Conscientious Objectors",
     "other_names": [
-      "Advisory Committee on \r Conscientious Objectors"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13651,7 +13647,7 @@
     "key": "PB393",
     "current_name": "Advisory Group on Military Medicine",
     "other_names": [
-      "Advisory Group \r on Military Medicine"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13683,7 +13679,7 @@
     "key": "PB395",
     "current_name": "Central Advisory Committee on Pensions and Compensation",
     "other_names": [
-      "Central Advisory Committee \r on Pensions and Compensation"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13699,7 +13695,7 @@
     "key": "PB396",
     "current_name": "Defence Nuclear Safety Committee",
     "other_names": [
-      "Defence Nuclear \r Safety Committee"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13715,7 +13711,7 @@
     "key": "PB397",
     "current_name": "Defence Scientific Advisory Council",
     "other_names": [
-      "Defence Scientific \r Advisory Council"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13731,7 +13727,7 @@
     "key": "PB399",
     "current_name": "National Employer Advisory Board",
     "other_names": [
-      "National Employer \r Advisory Board"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13747,7 +13743,7 @@
     "key": "PB400",
     "current_name": "Nuclear Research Advisory Council",
     "other_names": [
-      "Nuclear Research \r Advisory Council"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13779,7 +13775,7 @@
     "key": "PB402",
     "current_name": "Scientific Advisory Committee on the Medical Implications of Less-Lethal Weapons",
     "other_names": [
-      "Scientific Advisory Committee \r on the Medical Implications of \r Less-Lethal Weapons"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13795,7 +13791,7 @@
     "key": "PB403",
     "current_name": "Veterans Advisory and Pensions Committees",
     "other_names": [
-      "Veterans Advisory and \r Pensions Committees"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -13936,7 +13932,7 @@
     "key": "PB436",
     "current_name": "Administrative Justice and Tribunals Council",
     "other_names": [
-      "Administrative Justice \r and Tribunals Council"
+
     ],
     "start_date": null,
     "end_date": "2013-08-19",
@@ -13952,7 +13948,7 @@
     "key": "PB437",
     "current_name": "Advisory Committees on Justices of the Peace",
     "other_names": [
-      "Advisory Committees on \r Justices of the Peace"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14144,7 +14140,7 @@
     "key": "PB459",
     "current_name": "Directly Operated Railways Limited",
     "other_names": [
-      "Directly Operated\r Railways Limited"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14240,7 +14236,7 @@
     "key": "PB465",
     "current_name": "Traffic Commissioners for Great Britain",
     "other_names": [
-      "Traffic Commissioners\r for Great Britain"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14272,7 +14268,7 @@
     "key": "PB474",
     "current_name": "National Institute for Health and Care Excellence",
     "other_names": [
-      "National Institute for \r Health and Care Excellence"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14288,7 +14284,7 @@
     "key": "PB477",
     "current_name": "Review Board for Government Contracts",
     "other_names": [
-      "Review Board for \r Government Contracts"
+
     ],
     "start_date": null,
     "end_date": "2015-03-31",
@@ -14333,7 +14329,7 @@
     "key": "PB500",
     "current_name": "The Shareholder Executive",
     "other_names": [
-      "The\r Shareholder\r Executive"
+
     ],
     "start_date": null,
     "end_date": "2016-04",
@@ -14349,7 +14345,7 @@
     "key": "PB501",
     "current_name": "West Northamptonshire Development Corporation",
     "other_names": [
-      "West \r Northamptonshire \r Development \r Corporation"
+
     ],
     "start_date": null,
     "end_date": "2014-07-13",
@@ -14381,7 +14377,7 @@
     "key": "PB508",
     "current_name": "Board of Trustees of the Royal Botanic Gardens Kew",
     "other_names": [
-      "Board of Trustees \r of the Royal Botanic \r Gardens Kew"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14394,7 +14390,7 @@
     "key": "PB509",
     "current_name": "Disclosure and Barring Service",
     "other_names": [
-      "Disclosure &\r Barring Service"
+      "Disclosure & Barring Service"
     ],
     "start_date": null,
     "end_date": null,
@@ -14410,7 +14406,7 @@
     "key": "PB510",
     "current_name": "Social Mobility and Child Poverty Commission",
     "other_names": [
-      "Social Mobility and \r Child Poverty \r Commission"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14428,7 +14424,7 @@
     "key": "PB516",
     "current_name": "Criminal Procedure Rule Committee",
     "other_names": [
-      "Criminal Procedure \r Rule Committee"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14441,7 +14437,7 @@
     "key": "PB521",
     "current_name": "Insolvency Practitioners Tribunal",
     "other_names": [
-      "Insolvency \r Practitioners\r Tribunal"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14457,7 +14453,7 @@
     "key": "PB523",
     "current_name": "Administration of Radioactive Substances Advisory Committee",
     "other_names": [
-      "Administration of \r Radioactive Substances \r Advisory Committee"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14473,7 +14469,7 @@
     "key": "PB524",
     "current_name": "British Pharmacopoeia Commission",
     "other_names": [
-      "British\r Pharmacopoeia"
+      "British Pharmacopoeia"
     ],
     "start_date": null,
     "end_date": null,
@@ -14502,7 +14498,7 @@
     "key": "PB526",
     "current_name": "Committee on Mutagenicity of Chemicals in Food, Consumer Products and the Environment",
     "other_names": [
-      "Committee on Mutagenicity of \r Chemicals in Food, Consumer Products \r and the Environment"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14519,7 +14515,7 @@
     "key": "PB527",
     "current_name": "Independent Reconfiguration Panel",
     "other_names": [
-      "Independent \r Reconfiguration \r Panel"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14535,7 +14531,7 @@
     "key": "PB530",
     "current_name": "Review Body on Doctors' and Dentists' Remuneration",
     "other_names": [
-      "Review Body on \r Doctors' and Dentists' \r Remuneration"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14551,7 +14547,7 @@
     "key": "PB531",
     "current_name": "NHS Pay Review Body",
     "other_names": [
-      "NHS \r Pay Review \r Body"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14599,7 +14595,7 @@
     "key": "PB57",
     "current_name": "Marine Management Organisation",
     "other_names": [
-      "Marine \r Management \r Organisation"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14631,7 +14627,7 @@
     "key": "PB573",
     "current_name": "Advisory Committee on Animal Feedingstuffs",
     "other_names": [
-      "Advisory Committee on \r Animal Feedingstuffs"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14647,7 +14643,7 @@
     "key": "PB574",
     "current_name": "Advisory Committee on Novel Foods and Processes",
     "other_names": [
-      "Advisory Committee \r on Novel Foods \r and Processes"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14663,7 +14659,7 @@
     "key": "PB575",
     "current_name": "Advisory Committee on the Microbiological Safety of Food",
     "other_names": [
-      "Advisory Committee \r on the Microbiological \r Safety of Food"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14679,7 +14675,7 @@
     "key": "PB576",
     "current_name": "Committee on Toxicity of Chemicals in Food, Consumer Products and the Environment",
     "other_names": [
-      "Committee on Toxicity of \r Chemicals in Food, \r Consumer Products \r and the Environment"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14695,7 +14691,7 @@
     "key": "PB577",
     "current_name": "General Advisory Committee on Science",
     "other_names": [
-      "General Advisory \r Committee on Science"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14711,7 +14707,7 @@
     "key": "PB578",
     "current_name": "Social Science Research Committee",
     "other_names": [
-      "Social Science \r Research Committee"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14782,7 +14778,7 @@
     "key": "PC1059",
     "current_name": "Office for Nuclear Regulation",
     "other_names": [
-      "Office for \r Nuclear Regulation"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14814,7 +14810,7 @@
     "key": "PC259",
     "current_name": "UK Financial Investments Limited",
     "other_names": [
-      "UK Financial\r Investments Limited"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -14991,7 +14987,7 @@
     "key": "PC472",
     "current_name": "Marine Accident Investigation Branch",
     "other_names": [
-      "Marine Accident\r Investigation Branch"
+
     ],
     "start_date": null,
     "end_date": null,
@@ -15007,7 +15003,6 @@
     "key": "PC493",
     "current_name": "London and Continental Railways Ltd",
     "other_names": [
-      "London and Continental \r Railways Limited",
       "London and Continental Railways Limited"
     ],
     "start_date": null,
