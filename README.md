@@ -19,8 +19,8 @@ The source data contains the following fields:
 * `key` - primary key. This is taken from either the [register](https://government-organisation.register.gov.uk), or the `analytics_key` from the [GOV.UK API](https://www.gov.uk/api/organisations) if the organisation isn’t in the register.
 * `current_name` - the current official name of the organisation
 * `other_name` - this includes previous names for the organisation, as well as some spelling variants
-* `abbreviations` – any abbreviations for the organisation (eg `DfT` for the Department of Transport).
-* `start_date` - date or year organisation started (`null` implies unknown).
-* `end_date` - date or year organisation ended (`null` implies that the organisation still operates, `"unknown"` implies that the organisation has closed, but the date is unknown).
+* `abbreviations` – any abbreviations (or previous abbreviations) for the organisation (eg `DfT` for the Department of Transport).
+* `start_date` - date or month or year organisation started (`null` implies unknown).
+* `end_date` - date or month or year organisation ended (`null` implies that the organisation still operates, `"unknown"` implies that the organisation has closed, but the date is unknown).
 * `format` - status of the organisation within Government, eg 'Ministerial department' or 'Executive agency'.
 * `parents` - the keys of any parent organisation (eg the Department that an Agency belongs to, or is sponsored by).
