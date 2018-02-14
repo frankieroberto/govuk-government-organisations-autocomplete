@@ -14,7 +14,7 @@ The autocomplete works as a progressive enhancement of a dropdown element. This 
 
 The most basic form of the autocomplete will work with any regular `<select>` HTML, eg:
 
-```
+```html
 <select id="government-organisation">
   <option value="" selected>Pick an option</option>
   <option value="D2">Cabinet Office</option>
@@ -38,7 +38,7 @@ You can further improve the usability of the autocomplete by allowing users to s
 
 To do this, add the additional values as data attributes, as below:
 
-```
+```html
 <select id="government-organisation">
   <option value="" selected>Pick an option</option>
   <option value="D2" data-abbreviations="CO">Cabinet Office</option>
@@ -53,7 +53,7 @@ To do this, add the additional values as data attributes, as below:
 
 If your list of organisations is long, you can group them using the `<optgroup>` element. This improves accessibility for non-javascript users:
 
-```
+```html
 <select id="government-organisation">
   <optgroup label="Ministerial Departments">
     <option value="" selected>Pick an option</option>
