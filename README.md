@@ -41,11 +41,23 @@ To do this, add the additional values as data attributes, as below:
 ```html
 <select id="government-organisation">
   <option value="" selected>Pick an option</option>
-  <option value="D2" data-abbreviations="CO">Cabinet Office</option>
-  <option value="D1198" data-abbreviations="BEIS">Department for Business, Energy &amp; Industrial Strategy</option>
-  <option value="D5" data-abbreviations="DCMS" data-other-names="Department for Culture, Media & Sport|Department for Digital, Culture Media & Sport">Department for Digital, Culture, Media and Sport</option>
-  <option value="D6" data-abbreviations="DfE">Department for Education</option>
-  <option value="D7" data-abbreviations="Defra" data-other-names="Department for Environment Food & Rural Affairs">Department for Environment, Food &amp; Rural Affairs</option>
+  <option value="D2" data-abbreviations="CO">
+    Cabinet Office
+  </option>
+  <option value="D1198" data-abbreviations="BEIS">
+    Department for Business, Energy &amp; Industrial Strategy
+  </option>
+  <option value="D5" data-abbreviations="DCMS"
+    data-other-names="Department for Culture, Media & Sport|Department for Digital, Culture Media & Sport">
+    Department for Digital, Culture, Media and Sport
+  </option>
+  <option value="D6" data-abbreviations="DfE">
+    Department for Education
+  </option>
+  <option value="D7" data-abbreviations="Defra"
+    data-other-names="Department for Environment Food & Rural Affairs">
+    Department for Environment, Food &amp; Rural Affairs
+  </option>
 </select>
 ```
 
@@ -83,13 +95,27 @@ This shows the markup generated:
 <div>
   <span>
     <div class="autocomplete__wrapper" role="combobox" aria-expanded="false">
-      <div aria-atomic="true" aria-live="polite" role="status" style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin-bottom: -1px; margin-right: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;">568 results are available. <span>,,</span></div>
-      <input aria-owns="government-organisations__listbox" autocomplete="off" class="autocomplete__input" id="government-organisations" name="" placeholder="" type="text" role="textbox">
+      <div aria-atomic="true" aria-live="polite" role="status"
+        style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px;
+        margin-bottom: -1px; margin-right: -1px; overflow: hidden;
+        padding: 0px; position: absolute; white-space: nowrap; width: 1px;">
+          568 results are available. <span>,,</span>
+      </div>
+      <input aria-owns="government-organisations__listbox" autocomplete="off"
+        class="autocomplete__input" id="government-organisations" name=""
+        placeholder="" type="text" role="textbox" />
 
-      <ul class="autocomplete__menu autocomplete__menu--inline autocomplete__menu" id="government-organisations__listbox" role="listbox">
-        <li class="autocomplete__option" id="government-organisations__option--0" role="option" tabindex="-1">Attorney General's Office</li>
-        <li class="autocomplete__option autocomplete__option--odd" id="government-organisations__option--1" role="option" tabindex="-1">Cabinet Office</li>
-        <li class="autocomplete__option" id="government-organisations__option--2" role="option" tabindex="-1">Department for Business, Energy &amp; Industrial Strategy</li>
+      <ul class="autocomplete__menu autocomplete__menu--inline autocomplete__menu"
+        id="government-organisations__listbox" role="listbox">
+        <li class="autocomplete__option" id="government-organisations__option--0"
+          role="option" tabindex="-1">Attorney General's Office</li>
+        <li class="autocomplete__option autocomplete__option--odd"
+          id="government-organisations__option--1" role="option"
+          tabindex="-1">Cabinet Office</li>
+        <li class="autocomplete__option" id="government-organisations__option--2"
+          role="option" tabindex="-1">
+          Department for Business, Energy &amp; Industrial Strategy
+        </li>
       </ul>
     </div>
   </span>
