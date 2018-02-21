@@ -14166,7 +14166,7 @@
 
     ],
     "start_date": null,
-    "end_date": null,
+    "end_date": "unknown",
     "abbreviations": [
       "IPCC"
     ],
