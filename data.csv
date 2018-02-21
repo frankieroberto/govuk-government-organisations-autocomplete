@@ -113,7 +113,7 @@ DA1019,Welsh Government,"","",Devolved administration,,,""
 DA1020,Scottish Government,The Scottish Government,The Scottish Government,Devolved administration,,,""
 DA1021,Northern Ireland Executive,"","",Devolved administration,,,""
 DA1105,Estyn,"","",Other,,,""
-DA1146,"Department of Culture, Arts and Leisure Northern Ireland","",DCAL,Executive agency,,,""
+DA1146,"Department of Culture, Arts and Leisure Northern Ireland","",DCAL,Executive agency,,unknown,""
 EA1015,Crown Commercial Service,"",CCS,Executive agency,,,D2
 EA104,NS&I,"",NS&I,Non-ministerial department,,,D15
 EA1079,Animal and Plant Health Agency,Animal & Plant Health Agency,APHA,Executive agency,,,"D7, DA1019, DA1020"
@@ -123,14 +123,14 @@ EA1113,Defence Electronics and Components Agency,Defence Electronics & Component
 EA1114,Highways England,"",Highways England,Other,,,D9
 EA1119,Oil and Gas Authority,Oil & Gas Authority,OGA,Other,,,D1198
 EA114,Royal Mint,"",RM,Other,,,D15
-EA1213,Her Majesty’s Prison and Probation Service,Her Majesty’s Prison & Probation Service,HMPPS,Executive agency,,,""
+EA1213,Her Majesty’s Prison and Probation Service,Her Majesty’s Prison & Probation Service,HMPPS,Executive agency,,,D18
 EA199,Environment Agency,"",EA,Executive non-departmental public body,,,D7
 EA242,Education Funding Agency,"",EFA,Executive agency,,unknown,D6
 EA243,Standards and Testing Agency,Standards & Testing Agency,STA,Executive agency,,,D6
 EA26,Companies House,"",Companies House,Executive agency,,,D1198
 EA31,UK Space Agency,"","",Executive agency,,,D1198
 EA32,The Insolvency Service,"",the Insolvency Service,Executive agency,,,D1198
-EA321,HM Prison Service,"",HMPS,Executive agency,,,D18
+EA321,HM Prison Service,"",HMPS,Executive agency,,,EA1213
 EA33,National Measurement Office,"",NMO,Executive agency,,unknown,D3
 EA34,Intellectual Property Office,"",IPO,Executive agency,,,D1198
 EA365,Government Procurement Service,"",GPS,Executive agency,,2014-04-01,""
@@ -383,7 +383,7 @@ OT1182,"Digital, data and technology professions","Digital, Data and Technology 
 OT1184,Porton Biopharma Limited,"",PBL,Other,,,D12
 OT1186,UK Government Investments,"",UKGI,Other,,,D15
 OT1187,Office of Financial Sanctions Implementation,Office of Financial Sanctions Implementation HM Treasury,OFSI,Sub-organisation,,,D15
-OT1189,Regulatory Delivery,"","",Sub-organisation,,unknown,D1198
+OT1189,Regulatory Delivery,"","",Other,,unknown,""
 OT1190,Lammy Review,"","",Other,,,""
 OT1191,Defence Safety Authority,"",DSA,Sub-organisation,,,D17
 OT1192,Pubs Code Adjudicator,"",PCA,Other,,,""
@@ -399,7 +399,7 @@ OT1211,National Cyber Security Centre,NCSC,NCSC,Sub-organisation,,,OT306
 OT1215,Judicial Office,"",JO,Other,,,D18
 OT1220,Sellafield Ltd,"","",Other,,,PB197
 OT1223,Centre for Connected and Autonomous Vehicles,"",CCAV,Sub-organisation,,,"D9, D1198"
-OT1233,East West Railway Company,"",EWRC,Other,,,D9
+OT1233,East West Railway Company,East West Railway Company Limited,EWRC,Other,,,D9
 OT1235,College of Policing,"","",Other,,,D16
 OT1236,BPDTS Ltd,"","",Other,,,D10
 OT1238,Dounreay Site Restoration Ltd,"","",Other,,,PB197
@@ -409,6 +409,9 @@ OT1242,Remploy Pension Scheme Trustees Ltd,"","",Other,,,D10
 OT1243,NHS Counter Fraud Agency,NHS Counter Fraud Authority,NHSCFA,Other,,,D12
 OT1244,Network Rail,"","",Other,,,D9
 OT1246,Office for Product Safety and Standards,Office for Product Safety & Standards,"",Sub-organisation,2018-01-21,,D1198
+OT1249,Commission for Countering Extremism,"","",Other,,,D16
+OT1250,Defence Nuclear Organisation,"","",Sub-organisation,,,D17
+OT1251,Office for Civil Society,"",OCS,Sub-organisation,,,D5
 OT152,Industrial Development Advisory Board,"",IDAB,Advisory non-departmental public body,,,D1198
 OT204,Agriculture and Horticulture Development Board,"",AHDB,Executive non-departmental public body,,,D7
 OT205,Sea Fish Industry Authority,"",Seafish,Executive non-departmental public body,,,D7
@@ -580,7 +583,7 @@ OT683,Commission for Health Improvement,"","",Other,,2004-03-31,""
 OT684,Bridgwater Education Action Zone,"","",Other,,unknown,""
 OT686,H.M. Inspectorate of Explosives for Northern Ireland,"","",Other,,unknown,""
 OT688,Sentence Review Commissioners,"","",Other,,unknown,""
-OT690,Counter Fraud and Security Management Service,"","",Sub-organisation,,,OT529
+OT690,Counter Fraud and Security Management Service,"","",Sub-organisation,,unknown,OT529
 OT691,Family Health Services Appeal Authority,"","",Other,,2015-03-31,""
 OT694,Sports Council for Northern Ireland,"","",Other,,unknown,""
 OT702,Dingle Granby Toxteth Education Action Zone,"","",Other,,2005-01-09,""
@@ -818,6 +821,7 @@ PB1232,Homes England,"","",Executive non-departmental public body,,,D4
 PB1237,Small Business Commissioner,"",SBC,Executive non-departmental public body,,,D1198
 PB124,British Hallmarking Council,"",BHC,Executive non-departmental public body,,,D1198
 PB1245,LocatED,LocateED,"",Executive non-departmental public body,,,D6
+PB1248,Independent Office for Police Conduct,"",IOPC,Executive non-departmental public body,,,D16
 PB126,Construction Industry Training Board,"",CITB,Executive non-departmental public body,,,D6
 PB129,Economic and Social Research Council,"",ESRC,Executive non-departmental public body,,,D1198
 PB130,Engineering and Physical Sciences Research Council,"",EPSRC,Executive non-departmental public body,,,D1198
@@ -977,10 +981,10 @@ PB440,Civil Procedure Rule Committee,"",CPRC,Advisory non-departmental public bo
 PB441,Family Justice Council,"",FJC,Advisory non-departmental public body,,,D18
 PB442,Family Procedure Rule Committee,"",FPRC,Advisory non-departmental public body,,,D18
 PB443,Independent Advisory Panel on Deaths in Custody,IAPDC,IAPDC,Advisory non-departmental public body,,,D18
-PB445,Insolvency Rules Committee,"",IRC,Advisory non-departmental public body,,,D1198
+PB445,Insolvency Rules Committee,"",IRC,Advisory non-departmental public body,,,D18
 PB446,Prison Service Pay Review Body,"",PSPRB,Advisory non-departmental public body,,,D18
 PB448,Tribunal Procedure Committee,"",TPC,Advisory non-departmental public body,,,D18
-PB456,Independent Police Complaints Commission,"",IPCC,Executive non-departmental public body,,,D16
+PB456,Independent Police Complaints Commission,"",IPCC,Executive non-departmental public body,,unknown,D16
 PB457,Office of Surveillance Commissioners,"",OSC,Tribunal non-departmental public body,,,D16
 PB458,Police Negotiating Board,"",PNB,Advisory non-departmental public body,,2014-10-01,D16
 PB459,Directly Operated Railways Limited,"",DOR,Executive non-departmental public body,,,D9
@@ -1002,7 +1006,7 @@ PB508,Board of Trustees of the Royal Botanic Gardens Kew,"","",Executive non-dep
 PB509,Disclosure and Barring Service,Disclosure & Barring Service,DBS,Executive non-departmental public body,,,D16
 PB510,Social Mobility and Child Poverty Commission,"",SMCP Commission,Advisory non-departmental public body,,unknown,"D6, D2, D10"
 PB516,Criminal Procedure Rule Committee,"","",Advisory non-departmental public body,,,D18
-PB521,Insolvency Practitioners Tribunal,"",IPT,Tribunal non-departmental public body,,,D1198
+PB521,Insolvency Practitioners Tribunal,"",IPT,Tribunal non-departmental public body,,unknown,D1198
 PB523,Administration of Radioactive Substances Advisory Committee,"",ARSAC,Advisory non-departmental public body,,,D12
 PB524,British Pharmacopoeia Commission,British Pharmacopoeia,"",Advisory non-departmental public body,,,D12
 PB525,Commission on Human Medicines,"",CHM,Advisory non-departmental public body,,,D12

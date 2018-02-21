@@ -1641,7 +1641,7 @@
 
     ],
     "start_date": null,
-    "end_date": null,
+    "end_date": "unknown",
     "abbreviations": [
       "DCAL"
     ],
@@ -1810,7 +1810,7 @@
     ],
     "format": "Executive agency",
     "parents": [
-
+      "D18"
     ]
   },
   {
@@ -1919,7 +1919,7 @@
     ],
     "format": "Executive agency",
     "parents": [
-      "D18"
+      "EA1213"
     ]
   },
   {
@@ -5525,9 +5525,9 @@
     ],
     "start_date": null,
     "end_date": "unknown",
-    "format": "Sub-organisation",
+    "format": "Other",
     "parents": [
-      "D1198"
+
     ]
   },
   {
@@ -5754,7 +5754,7 @@
     "key": "OT1233",
     "current_name": "East West Railway Company",
     "other_names": [
-
+      "East West Railway Company Limited"
     ],
     "start_date": null,
     "end_date": null,
@@ -5884,6 +5884,48 @@
     "format": "Sub-organisation",
     "parents": [
       "D1198"
+    ]
+  },
+  {
+    "key": "OT1249",
+    "current_name": "Commission for Countering Extremism",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "format": "Other",
+    "parents": [
+      "D16"
+    ]
+  },
+  {
+    "key": "OT1250",
+    "current_name": "Defence Nuclear Organisation",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "format": "Sub-organisation",
+    "parents": [
+      "D17"
+    ]
+  },
+  {
+    "key": "OT1251",
+    "current_name": "Office for Civil Society",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "abbreviations": [
+      "OCS"
+    ],
+    "format": "Sub-organisation",
+    "parents": [
+      "D5"
     ]
   },
   {
@@ -8382,7 +8424,7 @@
 
     ],
     "start_date": null,
-    "end_date": null,
+    "end_date": "unknown",
     "format": "Sub-organisation",
     "parents": [
       "OT529"
@@ -11547,6 +11589,22 @@
     ]
   },
   {
+    "key": "PB1248",
+    "current_name": "Independent Office for Police Conduct",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "abbreviations": [
+      "IOPC"
+    ],
+    "format": "Executive non-departmental public body",
+    "parents": [
+      "D16"
+    ]
+  },
+  {
     "key": "PB126",
     "current_name": "Construction Industry Training Board",
     "other_names": [
@@ -14066,7 +14124,7 @@
     ],
     "format": "Advisory non-departmental public body",
     "parents": [
-      "D1198"
+      "D18"
     ]
   },
   {
@@ -14453,7 +14511,7 @@
 
     ],
     "start_date": null,
-    "end_date": null,
+    "end_date": "unknown",
     "abbreviations": [
       "IPT"
     ],
