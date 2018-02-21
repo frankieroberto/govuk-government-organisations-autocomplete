@@ -85,15 +85,15 @@ D583,Department for Education and Skills,"","",Ministerial department,,2007,""
 D584,Department of Social Security,"","",Ministerial department,,2001,""
 D585,Department of Education (Northern Ireland),"","",Other,,,""
 D586,Department of Trade and Industry,"","",Ministerial department,,unknown,""
-D587,Department for Constitutional Affairs,"","",Ministerial department,,unknown,""
+D587,Department for Constitutional Affairs,"","",Ministerial department,,2007-05-09,""
 D591,Department of the Environment (Northern Ireland),Department of the Environment,"",Ministerial department,,unknown,""
 D595,Lord Chancellor's Department,"","",Ministerial department,,2003-06-12,""
 D598,Department of Constitutional Affairs,"","",Ministerial department,,2007-05-09,""
 D6,Department for Education,"",DfE,Ministerial department,,,""
 D605,Department of Finance and Personnel for Northern Ireland,"","",Ministerial department,,unknown,""
 D608,"Department for Innovation, Universities and Skills","","",Ministerial department,,2009-06,""
-D609,"Department for Children, Schools and Families","","",Ministerial department,,unknown,""
-D611,"Department for Business, Enterprise and Regulatory Reform","","",Ministerial department,,unknown,""
+D609,"Department for Children, Schools and Families","","",Ministerial department,,2010-05-12,""
+D611,"Department for Business, Enterprise and Regulatory Reform","","",Ministerial department,,2009-06-05,""
 D631,Department of Inland Revenue,"","",Ministerial department,,2005-04,""
 D69,HM Land Registry,"",HM Land Registry,Non-ministerial department,,,D1198
 D7,"Department for Environment, Food & Rural Affairs",Department for Environment Food & Rural Affairs,Defra,Ministerial department,,,""
@@ -408,7 +408,7 @@ OT1240,Low Level Waste Repository Ltd,"","",Other,,,PB197
 OT1242,Remploy Pension Scheme Trustees Ltd,"","",Other,,,D10
 OT1243,NHS Counter Fraud Agency,NHS Counter Fraud Authority,NHSCFA,Other,,,D12
 OT1244,Network Rail,"","",Other,,,D9
-OT1246,Office for Product Safety and Standards,Office for Product Safety & Standards,"",Sub-organisation,,,D1198
+OT1246,Office for Product Safety and Standards,Office for Product Safety & Standards,"",Sub-organisation,2018-01-21,,D1198
 OT152,Industrial Development Advisory Board,"",IDAB,Advisory non-departmental public body,,,D1198
 OT204,Agriculture and Horticulture Development Board,"",AHDB,Executive non-departmental public body,,,D7
 OT205,Sea Fish Industry Authority,"",Seafish,Executive non-departmental public body,,,D7
