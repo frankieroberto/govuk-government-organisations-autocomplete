@@ -30,6 +30,7 @@ while url != nil do
       'format' => result['format'],
       'status' => result['details']['govuk_status'],
       'closed_at' => result['closed_at'],
+      'superseding_organisations' => result['superseding_organisations'],
       'parents' => []
     }
 
@@ -47,6 +48,30 @@ parent_relations.each do |relation|
   child_org = govuk_orgs.detect {|govuk_org| govuk_org['govuk_id'] == relation['child_id'] }
   parent_org = govuk_orgs.detect {|govuk_org| govuk_org['govuk_id'] == relation['parent_id'] }
   child_org['parents'] << parent_org['govuk_analytics_identifier']
+
+end
+
+govuk_orgs.each do |org|
+
+  org['superseding_organisation_ids'] = Array(org['superseding_organisations']).collect do |superseding_organisation|
+
+    govuk_orgs.detect do |govuk_org|
+
+      govuk_org['govuk_id'] == superseding_organisation['id']
+
+    end['govuk_analytics_identifier']
+
+  end
+
+  org['superseded_organisation_ids'] = Array(org['superseded_organisations']).collect do |superseded_organisation|
+
+    govuk_orgs.detect do |govuk_org|
+
+      govuk_org['govuk_id'] == superseded_organisation['id']
+
+    end['govuk_analytics_identifier']
+
+  end
 
 end
 
@@ -91,6 +116,9 @@ govuk_orgs.each do |govuk_org|
 
   existing_org['format'] = govuk_org['format']
   existing_org['parents'] = govuk_org['parents']
+
+  existing_org['superseding_organisation_ids'] = govuk_org['superseding_organisation_ids']
+  existing_org['superseded_organisation_ids'] = govuk_org['superseded_organisation_ids']
 
   if existing_org['end_date'].nil? && govuk_org['closed_at']
     existing_org['end_date'] = govuk_org['closed_at']
