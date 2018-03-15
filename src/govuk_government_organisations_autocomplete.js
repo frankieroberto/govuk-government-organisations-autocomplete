@@ -25,7 +25,8 @@ var govukGovernmentOrganisationsAutocomplete = function(options) {
     })
 
     var regexes = query.trim().split(/\s+/).map(function(word) {
-      return new RegExp('\\b' + word, 'i')
+      var pattern = '\\b' + word.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, "\\$&")
+      return new RegExp(pattern, 'i')
     })
 
     var matches = orgs.map(function(organisation) {
