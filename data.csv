@@ -104,7 +104,7 @@ D750,"Department of Enterprise, Trade and Investment","","",Ministerial departme
 D753,Department of Agriculture and Rural Development,"","",Ministerial department,,unknown,""
 D8,Department for International Development,"",DFID,Ministerial department,,,""
 D85,Forestry Commission,"",Forestry,Non-ministerial department,,,D7
-D853,"Department of Culture, Arts and Leisure","","",Ministerial department,,unknown,""
+D853,"Department of Culture, Arts and Leisure","","",Ministerial department,2016-05,unknown,""
 D854,Department for Employment and Learning,"","",Ministerial department,,unknown,""
 D9,Department for Transport,"",DfT,Ministerial department,,,""
 D974,Exchequer and Audit Department,"","",Ministerial department,,1983,""
@@ -409,7 +409,7 @@ OT1242,Remploy Pension Scheme Trustees Ltd,"","",Other,,,D10
 OT1243,NHS Counter Fraud Agency,NHS Counter Fraud Authority,NHSCFA,Other,,,D12
 OT1244,Network Rail,"","",Other,,,D9
 OT1246,Office for Product Safety and Standards,Office for Product Safety & Standards,"",Sub-organisation,2018-01-21,,D1198
-OT1249,Commission for Countering Extremism,"","",Other,,,D16
+OT1249,Commission for Countering Extremism,"","",Other,2018-01-24,,D16
 OT1250,Defence Nuclear Organisation,"","",Sub-organisation,,,D17
 OT1251,Office for Civil Society,"",OCS,Sub-organisation,,,D5
 OT1252,jHub Defence Innovation,"","",Sub-organisation,,,"OT498, D17"
