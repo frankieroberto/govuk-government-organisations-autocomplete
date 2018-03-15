@@ -404,7 +404,7 @@ OT1235,College of Policing,"","",Other,,,D16
 OT1236,BPDTS Ltd,"","",Other,,,D10
 OT1238,Dounreay Site Restoration Ltd,"","",Other,,,PB197
 OT1239,Magnox Ltd,"","",Other,,,PB197
-OT1240,Low Level Waste Repository Ltd,"","",Other,,,PB197
+OT1240,Low Level Waste Repository Ltd,"",LLWR,Other,,,PB197
 OT1242,Remploy Pension Scheme Trustees Ltd,"","",Other,,,D10
 OT1243,NHS Counter Fraud Agency,NHS Counter Fraud Authority,NHSCFA,Other,,,D12
 OT1244,Network Rail,"","",Other,,,D9
@@ -412,6 +412,8 @@ OT1246,Office for Product Safety and Standards,Office for Product Safety & Stand
 OT1249,Commission for Countering Extremism,"","",Other,,,D16
 OT1250,Defence Nuclear Organisation,"","",Sub-organisation,,,D17
 OT1251,Office for Civil Society,"",OCS,Sub-organisation,,,D5
+OT1252,jHub Defence Innovation,"","",Sub-organisation,,,"OT498, D17"
+OT1254,Race Disparity Unit,"","",Sub-organisation,,,"D2, OT532"
 OT152,Industrial Development Advisory Board,"",IDAB,Advisory non-departmental public body,,,D1198
 OT204,Agriculture and Horticulture Development Board,"",AHDB,Executive non-departmental public body,,,D7
 OT205,Sea Fish Industry Authority,"",Seafish,Executive non-departmental public body,,,D7
@@ -822,6 +824,7 @@ PB1237,Small Business Commissioner,"",SBC,Executive non-departmental public body
 PB124,British Hallmarking Council,"",BHC,Executive non-departmental public body,,,D1198
 PB1245,LocatED,LocateED,"",Executive non-departmental public body,,,D6
 PB1248,Independent Office for Police Conduct,"",IOPC,Executive non-departmental public body,,,D16
+PB1253,Office for Students,"",OfS,Executive non-departmental public body,,,D6
 PB126,Construction Industry Training Board,"",CITB,Executive non-departmental public body,,,D6
 PB129,Economic and Social Research Council,"",ESRC,Executive non-departmental public body,,,D1198
 PB130,Engineering and Physical Sciences Research Council,"",EPSRC,Executive non-departmental public body,,,D1198
