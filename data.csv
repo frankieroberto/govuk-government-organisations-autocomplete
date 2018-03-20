@@ -124,6 +124,7 @@ EA1114,Highways England,"",Highways England,Other,,,D9
 EA1119,Oil and Gas Authority,Oil & Gas Authority,OGA,Other,,,D1198
 EA114,Royal Mint,"",RM,Other,,,D15
 EA1213,Her Majesty’s Prison and Probation Service,Her Majesty’s Prison & Probation Service,HMPPS,Executive agency,,,D18
+EA1255,Government Property Agency,"","",Executive agency,,,D2
 EA199,Environment Agency,"",EA,Executive non-departmental public body,,,D7
 EA242,Education Funding Agency,"",EFA,Executive agency,,unknown,D6
 EA243,Standards and Testing Agency,Standards & Testing Agency,STA,Executive agency,,,D6
@@ -413,7 +414,7 @@ OT1249,Commission for Countering Extremism,"","",Other,2018-01-24,,D16
 OT1250,Defence Nuclear Organisation,"","",Sub-organisation,,,D17
 OT1251,Office for Civil Society,"",OCS,Sub-organisation,,,D5
 OT1252,jHub Defence Innovation,"","",Sub-organisation,,,"OT498, D17"
-OT1254,Race Disparity Unit,"","",Sub-organisation,,,"D2, OT532"
+OT1254,Race Disparity Unit,"","",Sub-organisation,,,D2
 OT152,Industrial Development Advisory Board,"",IDAB,Advisory non-departmental public body,,,D1198
 OT204,Agriculture and Horticulture Development Board,"",AHDB,Executive non-departmental public body,,,D7
 OT205,Sea Fish Industry Authority,"",Seafish,Executive non-departmental public body,,,D7

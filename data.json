@@ -2570,6 +2570,25 @@
     ]
   },
   {
+    "key": "EA1255",
+    "current_name": "Government Property Agency",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "format": "Executive agency",
+    "parents": [
+      "D2"
+    ],
+    "superseding_organisation_ids": [
+
+    ],
+    "superseded_organisation_ids": [
+
+    ]
+  },
+  {
     "key": "EA199",
     "current_name": "Environment Agency",
     "other_names": [
@@ -8448,8 +8467,7 @@
     "end_date": null,
     "format": "Sub-organisation",
     "parents": [
-      "D2",
-      "OT532"
+      "D2"
     ],
     "superseding_organisation_ids": [
 
