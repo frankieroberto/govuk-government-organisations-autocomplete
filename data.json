@@ -2589,6 +2589,28 @@
     ]
   },
   {
+    "key": "EA1256",
+    "current_name": "Teaching Regulation Agency",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "abbreviations": [
+      "TRA"
+    ],
+    "format": "Executive agency",
+    "parents": [
+      "D6"
+    ],
+    "superseding_organisation_ids": [
+
+    ],
+    "superseded_organisation_ids": [
+
+    ]
+  },
+  {
     "key": "EA199",
     "current_name": "Environment Agency",
     "other_names": [
@@ -11257,7 +11279,7 @@
     "end_date": "unknown",
     "format": "Other",
     "parents": [
-
+      "D585"
     ],
     "superseding_organisation_ids": [
       "DA1021"

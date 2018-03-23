@@ -125,6 +125,7 @@ EA1119,Oil and Gas Authority,Oil & Gas Authority,OGA,Other,,,D1198
 EA114,Royal Mint,"",RM,Other,,,D15
 EA1213,Her Majesty’s Prison and Probation Service,Her Majesty’s Prison & Probation Service,HMPPS,Executive agency,,,D18
 EA1255,Government Property Agency,"","",Executive agency,,,D2
+EA1256,Teaching Regulation Agency,"",TRA,Executive agency,,,D6
 EA199,Environment Agency,"",EA,Executive non-departmental public body,,,D7
 EA242,Education Funding Agency,"",EFA,Executive agency,,unknown,D6
 EA243,Standards and Testing Agency,Standards & Testing Agency,STA,Executive agency,,,D6
@@ -547,7 +548,7 @@ OT640,Bolton Education Action Zone,"","",Other,,unknown,""
 OT641,Hamilton Oxford Education Action Zone,"","",Other,,2004-09-06,""
 OT642,Scottish Screen,"","",Other,,2010-07-01,""
 OT643,Dudley Education Action Zone,"","",Other,,2004-11-30,""
-OT644,"Northern Ireland Council for the Curriculum, Examinations and Assessment","","",Other,,unknown,""
+OT644,"Northern Ireland Council for the Curriculum, Examinations and Assessment","","",Other,,unknown,D585
 OT645,Westminster Education Action Zone,"","",Other,,2005-04-30,""
 OT646,North East Derbyshire Coalfields Education Action Zone,"","",Other,,2004-11-30,""
 OT647,Telford and Wrekin Education Action Zone,"","",Other,,2004-11-30,""
