@@ -29,7 +29,7 @@ while url != nil do
       'abbreviation' => result['details']['abbreviation'],
       'format' => result['format'],
       'status' => result['details']['govuk_status'],
-      'closed_at' => result['closed_at'],
+      'closed_at' => result['details']['closed_at'],
       'superseding_organisations' => result['superseding_organisations'],
       'parents' => []
     }
@@ -120,7 +120,7 @@ govuk_orgs.each do |govuk_org|
   existing_org['superseding_organisation_ids'] = govuk_org['superseding_organisation_ids']
   existing_org['superseded_organisation_ids'] = govuk_org['superseded_organisation_ids']
 
-  if existing_org['end_date'].nil? && govuk_org['closed_at']
+  if (existing_org['end_date'].nil? || existing_org['end_date'] == 'unknown') && govuk_org['closed_at']
     existing_org['end_date'] = govuk_org['closed_at']
 
   elsif existing_org['end_date'].nil? && govuk_org['status'] == 'closed'
