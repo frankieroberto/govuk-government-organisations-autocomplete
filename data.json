@@ -1493,7 +1493,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2015-04-01T00:00:00.000+01:00",
     "abbreviations": [
       "TSol"
     ],
@@ -2443,7 +2443,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2016-03-31T00:00:00.000+01:00",
     "abbreviations": [
       "NMRO"
     ],
@@ -2586,6 +2586,9 @@
     ],
     "superseded_organisation_ids": [
 
+    ],
+    "abbreviations": [
+      "GPA"
     ]
   },
   {
@@ -2639,7 +2642,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2017-04-01T00:00:00.000+01:00",
     "abbreviations": [
       "EFA"
     ],
@@ -2768,7 +2771,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2015-03-31T00:00:00.000+01:00",
     "abbreviations": [
       "NMO"
     ],
@@ -3203,7 +3206,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2015-04-01T00:00:00.000+01:00",
     "abbreviations": [
       "Fera"
     ],
@@ -4698,7 +4701,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2009-04-01T00:00:00.000+01:00",
     "format": "Sub-organisation",
     "parents": [
       "EA56"
@@ -4755,7 +4758,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2017-04-01T00:00:00.000+01:00",
     "abbreviations": [
       "SFA"
     ],
@@ -5179,7 +5182,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2013-04-01T00:00:00.000+01:00",
     "abbreviations": [
       "NCSL"
     ],
@@ -7878,7 +7881,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2018-01-21T00:00:00.000+00:00",
     "format": "Other",
     "parents": [
 
@@ -9182,7 +9185,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2015-07-31T00:00:00.000+01:00",
     "abbreviations": [
       "DPBAC"
     ],
@@ -9702,7 +9705,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2014-10-13T00:00:00.000+01:00",
     "abbreviations": [
       "ERG"
     ],
@@ -10071,7 +10074,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2016-08-01T00:00:00.000+01:00",
     "abbreviations": [
       "HSCIC"
     ],
@@ -10526,7 +10529,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2016-03-31T00:00:00.000+01:00",
     "abbreviations": [
       "BRDO"
     ],
@@ -10548,7 +10551,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2017-03-31T00:00:00.000+01:00",
     "format": "Other",
     "parents": [
 
@@ -14360,7 +14363,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2013-05-13T00:00:00.000+01:00",
     "format": "Other",
     "parents": [
 
@@ -16839,7 +16842,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2014-08-15T00:00:00.000+01:00",
     "format": "Executive non-departmental public body",
     "parents": [
       "D3"
@@ -16880,7 +16883,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2017-03-31T00:00:00.000+01:00",
     "abbreviations": [
       "UKCES"
     ],
@@ -17034,7 +17037,7 @@
       "Homes & Communities Agency"
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2018-01-11T00:00:00.000+00:00",
     "abbreviations": [
       "HCA"
     ],
@@ -17594,7 +17597,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2016-01-25T00:00:00.000+00:00",
     "abbreviations": [
       "FPAG"
     ],
@@ -17745,7 +17748,7 @@
       "Gangmasters Licensing Authority"
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2016-06-17T00:00:00.000+01:00",
     "abbreviations": [
       "GLA",
       "GLAA"
@@ -19665,7 +19668,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2016-10-01T00:00:00.000+01:00",
     "abbreviations": [
       "DSAC"
     ],
@@ -19687,7 +19690,7 @@
 
     ],
     "start_date": null,
-    "end_date": null,
+    "end_date": "2018-04-01T00:00:00.000+01:00",
     "abbreviations": [
       "NEAB"
     ],
@@ -19860,7 +19863,7 @@
       "Agricultural Wages Committee (x15)"
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2013-12-16T00:00:00.000+00:00",
     "abbreviations": [
       "AWC"
     ],
@@ -19882,7 +19885,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2013-12-16T00:00:00.000+00:00",
     "abbreviations": [
       "ADHAC"
     ],
@@ -20366,7 +20369,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2015-04-01T00:00:00.000+01:00",
     "abbreviations": [
       "PF"
     ],
@@ -20624,7 +20627,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2016-05-16T00:00:00.000+01:00",
     "abbreviations": [
       "SMCP Commission"
     ],
@@ -20667,7 +20670,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2015-10-01T00:00:00.000+01:00",
     "abbreviations": [
       "IPT"
     ],
@@ -21361,7 +21364,7 @@
 
     ],
     "start_date": null,
-    "end_date": "unknown",
+    "end_date": "2013-09-30T00:00:00.000+01:00",
     "abbreviations": [
       "BRBR"
     ],
