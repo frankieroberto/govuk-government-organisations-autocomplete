@@ -1359,9 +1359,10 @@
   },
   {
     "key": "D23",
-    "current_name": "Scotland Office",
+    "current_name": "Office of the Secretary of State for Scotland",
     "other_names": [
-      "Office of the Secretary of State for Scotland"
+      "Office of the Secretary of State for Scotland",
+      "Scotland Office"
     ],
     "start_date": null,
     "end_date": null,
@@ -2575,7 +2576,7 @@
     "other_names": [
 
     ],
-    "start_date": null,
+    "start_date": "2018-04-01",
     "end_date": null,
     "format": "Executive agency",
     "parents": [
