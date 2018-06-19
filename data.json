@@ -10399,9 +10399,10 @@
   },
   {
     "key": "OT557",
-    "current_name": "Export Control Organisation",
+    "current_name": "Export Control Joint Unit",
     "other_names": [
-      "Export Control Joint Unit"
+      "Export Control Joint Unit",
+      "Export Control Organisation"
     ],
     "start_date": null,
     "end_date": null,
