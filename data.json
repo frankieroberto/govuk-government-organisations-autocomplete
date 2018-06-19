@@ -2052,7 +2052,7 @@
 
     ],
     "superseding_organisation_ids": [
-      "DA1021"
+      "OT1173"
     ],
     "superseded_organisation_ids": [
 
@@ -7586,7 +7586,7 @@
     "end_date": null,
     "format": "Sub-organisation",
     "parents": [
-      "OT1076"
+      "D2"
     ],
     "superseding_organisation_ids": [
 
@@ -16697,7 +16697,7 @@
     "abbreviations": [
       "IRM"
     ],
-    "format": "Executive non-departmental public body",
+    "format": "Other",
     "parents": [
       "D6"
     ],
