@@ -22,7 +22,7 @@ while url != nil do
 
     govuk_orgs << {
       'govuk_analytics_identifier' => result['analytics_identifier'],
-      'title' => result['title'].to_s.strip,
+      'title' => result['title'].to_s.strip.gsub(/\AClosed organisation\: /, ''),
       'govuk_id' => result['id'],
       'url' => result['web_url'],
       'current_name_logo_formatted' => result['details']['logo_formatted_name'],
@@ -114,6 +114,10 @@ govuk_orgs.each do |govuk_org|
     existing_org['abbreviations'] = abbreviations
   end
 
+  if existing_org['abbreviations']
+    existing_org['abbreviations'] = existing_org['abbreviations'] - [existing_org['current_name']]
+  end
+
   existing_org['format'] = govuk_org['format']
   existing_org['parents'] = govuk_org['parents']
 
@@ -128,7 +132,7 @@ govuk_orgs.each do |govuk_org|
   end
 
 
-  logo_formatted_name = govuk_org['current_name_logo_formatted'].gsub(/[\n\r]/, ' ').squeeze(' ').strip
+  logo_formatted_name = govuk_org['current_name_logo_formatted'].to_s.gsub(/[\n\r]/, ' ').squeeze(' ').strip
 
   if existing_org['name'] != logo_formatted_name && !existing_org['other_names'].include?(logo_formatted_name)
 
@@ -138,6 +142,8 @@ govuk_orgs.each do |govuk_org|
   existing_org['other_names'] = existing_org['other_names'].collect {|name| name.gsub(/[\n\r]/, ' ').squeeze(' ') }
 
   existing_org['other_names'] = (existing_org['other_names'] - [existing_org['current_name']]).uniq.sort
+
+  existing_org['other_names'].reject! {|name| name == '' || name.nil? }
 
 end
 
