@@ -8530,6 +8530,28 @@
     ]
   },
   {
+    "key": "OT1259",
+    "current_name": "DfT OLR Holdings Limited",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "abbreviations": [
+      "DOHL"
+    ],
+    "format": "Other",
+    "parents": [
+      "D9"
+    ],
+    "superseding_organisation_ids": [
+
+    ],
+    "superseded_organisation_ids": [
+
+    ]
+  },
+  {
     "key": "OT152",
     "current_name": "Industrial Development Advisory Board",
     "other_names": [
@@ -16097,7 +16119,7 @@
     "key": "PB1152",
     "current_name": "Disabled People’s Employment Corporation",
     "other_names": [
-
+      "Disabled People’s Employment Corporation (GB) Ltd"
     ],
     "start_date": null,
     "end_date": null,
@@ -16251,7 +16273,6 @@
     "end_date": null,
     "format": "Advisory non-departmental public body",
     "parents": [
-      "D2",
       "D6"
     ],
     "superseding_organisation_ids": [
@@ -16259,6 +16280,9 @@
     ],
     "superseded_organisation_ids": [
 
+    ],
+    "abbreviations": [
+      "SMC"
     ]
   },
   {
@@ -20610,12 +20634,13 @@
     "key": "PB503",
     "current_name": "Local Government Ombudsman",
     "other_names": [
-
+      "Local Government and Social Care Ombudsman"
     ],
     "start_date": null,
     "end_date": null,
     "abbreviations": [
-      "LGO"
+      "LGO",
+      "LGSCO"
     ],
     "format": "Other",
     "parents": [
