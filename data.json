@@ -1385,6 +1385,7 @@
     "start_date": null,
     "end_date": null,
     "abbreviations": [
+      "UK Government in Wales",
       "WO"
     ],
     "format": "Ministerial department",
@@ -4055,9 +4056,9 @@
     ],
     "start_date": null,
     "end_date": "unknown",
-    "format": "Executive agency",
+    "format": "Other",
     "parents": [
-
+      "OT1173"
     ],
     "superseding_organisation_ids": [
       "DA1021"
@@ -6132,7 +6133,7 @@
       "Government Legal Profession"
     ],
     "start_date": null,
-    "end_date": null,
+    "end_date": "2018-09-05T00:00:00.000+01:00",
     "abbreviations": [
       "GLP",
       "GLS"
@@ -6142,7 +6143,7 @@
       "CS1028"
     ],
     "superseding_organisation_ids": [
-
+      "OT1261"
     ],
     "superseded_organisation_ids": [
 
@@ -6525,13 +6526,13 @@
       "Government IT profession"
     ],
     "start_date": null,
-    "end_date": null,
+    "end_date": "2014-07-01T00:00:00.000+01:00",
     "format": "Sub-organisation",
     "parents": [
       "CS1028"
     ],
     "superseding_organisation_ids": [
-
+      "OT1182"
     ],
     "superseded_organisation_ids": [
 
@@ -6800,7 +6801,7 @@
       "Life Sciences Organisation"
     ],
     "start_date": null,
-    "end_date": null,
+    "end_date": "2016-07-12T00:00:00.000+01:00",
     "abbreviations": [
       "UKTI LSO"
     ],
@@ -6809,7 +6810,7 @@
       "D117"
     ],
     "superseding_organisation_ids": [
-
+      "OT1263"
     ],
     "superseded_organisation_ids": [
 
@@ -7011,7 +7012,7 @@
 
     ],
     "start_date": null,
-    "end_date": null,
+    "end_date": "2016-07-13T00:00:00.000+01:00",
     "format": "Sub-organisation",
     "parents": [
       "D117"
@@ -8543,6 +8544,200 @@
     "format": "Other",
     "parents": [
       "D9"
+    ],
+    "superseding_organisation_ids": [
+
+    ],
+    "superseded_organisation_ids": [
+
+    ]
+  },
+  {
+    "key": "OT1260",
+    "current_name": "Financial Reporting Council",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "abbreviations": [
+      "FRC"
+    ],
+    "format": "Other",
+    "parents": [
+      "D1198"
+    ],
+    "superseding_organisation_ids": [
+
+    ],
+    "superseded_organisation_ids": [
+
+    ]
+  },
+  {
+    "key": "OT1261",
+    "current_name": "Government Legal Profession",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "abbreviations": [
+      "GLP"
+    ],
+    "format": "Sub-organisation",
+    "parents": [
+      "CS1028"
+    ],
+    "superseding_organisation_ids": [
+
+    ],
+    "superseded_organisation_ids": [
+
+    ]
+  },
+  {
+    "key": "OT1262",
+    "current_name": "Offshore Petroleum Regulator for Environment and Decommissioning",
+    "other_names": [
+      "Offshore Petroleum Regulator for Environment & Decommissioning"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "abbreviations": [
+      "OPRED"
+    ],
+    "format": "Sub-organisation",
+    "parents": [
+      "D1198"
+    ],
+    "superseding_organisation_ids": [
+
+    ],
+    "superseded_organisation_ids": [
+
+    ]
+  },
+  {
+    "key": "OT1263",
+    "current_name": "Life Sciences Organisation",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "abbreviations": [
+      "LSO"
+    ],
+    "format": "Sub-organisation",
+    "parents": [
+      "D1196"
+    ],
+    "superseding_organisation_ids": [
+
+    ],
+    "superseded_organisation_ids": [
+
+    ]
+  },
+  {
+    "key": "OT1264",
+    "current_name": "Commissioner for Shale Gas",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "format": "Other",
+    "parents": [
+      "D1198"
+    ],
+    "superseding_organisation_ids": [
+
+    ],
+    "superseded_organisation_ids": [
+
+    ]
+  },
+  {
+    "key": "OT1265",
+    "current_name": "Public Health Agency (Northern Ireland)",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "format": "Other",
+    "parents": [
+      "OT1175"
+    ],
+    "superseding_organisation_ids": [
+      "DA1021"
+    ],
+    "superseded_organisation_ids": [
+
+    ]
+  },
+  {
+    "key": "OT1266",
+    "current_name": "Single Financial Guidance Body",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "abbreviations": [
+      "SFGB"
+    ],
+    "format": "Executive non-departmental public body",
+    "parents": [
+      "D10"
+    ],
+    "superseding_organisation_ids": [
+
+    ],
+    "superseded_organisation_ids": [
+
+    ]
+  },
+  {
+    "key": "OT1267",
+    "current_name": "Employment Agency Standards Inspectorate",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "abbreviations": [
+      "EAS"
+    ],
+    "format": "Sub-organisation",
+    "parents": [
+      "D1198"
+    ],
+    "superseding_organisation_ids": [
+
+    ],
+    "superseded_organisation_ids": [
+
+    ]
+  },
+  {
+    "key": "OT1268",
+    "current_name": "UK Council for Internet Safety",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "abbreviations": [
+      "UKCIS"
+    ],
+    "format": "Other",
+    "parents": [
+      "D5",
+      "D6",
+      "D16"
     ],
     "superseding_organisation_ids": [
 
@@ -11180,7 +11375,7 @@
     "end_date": "unknown",
     "format": "Other",
     "parents": [
-
+      "D1073"
     ],
     "superseding_organisation_ids": [
       "DA1021"
@@ -11339,6 +11534,9 @@
     ],
     "superseded_organisation_ids": [
 
+    ],
+    "abbreviations": [
+      "CCEA"
     ]
   },
   {
@@ -11425,9 +11623,9 @@
     ],
     "start_date": null,
     "end_date": null,
-    "format": "Other",
+    "format": "Executive non-departmental public body",
     "parents": [
-
+      "D1073"
     ],
     "superseding_organisation_ids": [
 
@@ -11558,15 +11756,18 @@
     ],
     "start_date": null,
     "end_date": "unknown",
-    "format": "Other",
+    "format": "Executive non-departmental public body",
     "parents": [
-
+      "D1073"
     ],
     "superseding_organisation_ids": [
       "DA1021"
     ],
     "superseded_organisation_ids": [
 
+    ],
+    "abbreviations": [
+      "PSNI"
     ]
   },
   {
@@ -12402,7 +12603,7 @@
     ],
     "format": "Other",
     "parents": [
-      "EA70"
+      "EA1213"
     ],
     "superseding_organisation_ids": [
 
@@ -13958,9 +14159,9 @@
     ],
     "start_date": null,
     "end_date": "unknown",
-    "format": "Other",
+    "format": "Executive non-departmental public body",
     "parents": [
-
+      "OT1178"
     ],
     "superseding_organisation_ids": [
       "DA1021"
@@ -15869,7 +16070,7 @@
     "end_date": "unknown",
     "format": "Executive non-departmental public body",
     "parents": [
-
+      "OT1178"
     ],
     "superseding_organisation_ids": [
       "DA1021"
@@ -16333,7 +16534,7 @@
 
     ],
     "start_date": null,
-    "end_date": null,
+    "end_date": "2018-04-01T00:00:00.000+01:00",
     "abbreviations": [
       "HEFCE"
     ],
@@ -16342,7 +16543,8 @@
       "D6"
     ],
     "superseding_organisation_ids": [
-
+      "PB1221",
+      "PB1253"
     ],
     "superseded_organisation_ids": [
 
@@ -16468,7 +16670,7 @@
     ],
     "format": "Executive non-departmental public body",
     "parents": [
-
+      "D4"
     ],
     "superseding_organisation_ids": [
 
@@ -16755,6 +16957,25 @@
     ]
   },
   {
+    "key": "PB1269",
+    "current_name": "Birmingham Organising Committee for the 2022 Commonwealth Games Ltd",
+    "other_names": [
+
+    ],
+    "start_date": null,
+    "end_date": null,
+    "format": "Executive non-departmental public body",
+    "parents": [
+      "D5"
+    ],
+    "superseding_organisation_ids": [
+
+    ],
+    "superseded_organisation_ids": [
+
+    ]
+  },
+  {
     "key": "PB129",
     "current_name": "Economic and Social Research Council",
     "other_names": [
@@ -16871,7 +17092,7 @@
 
     ],
     "start_date": null,
-    "end_date": null,
+    "end_date": "2018-04-01T00:00:00.000+01:00",
     "abbreviations": [
       "OFFA"
     ],
@@ -16880,7 +17101,7 @@
       "D6"
     ],
     "superseding_organisation_ids": [
-
+      "PB1253"
     ],
     "superseded_organisation_ids": [
 
@@ -17119,7 +17340,8 @@
       "D4"
     ],
     "superseding_organisation_ids": [
-      "PB1232"
+      "PB1232",
+      "PB1218"
     ],
     "superseded_organisation_ids": [
 
@@ -19305,7 +19527,7 @@
     "abbreviations": [
       "EGAC"
     ],
-    "format": "Advisory non-departmental public body",
+    "format": "Other",
     "parents": [
       "D241"
     ],
