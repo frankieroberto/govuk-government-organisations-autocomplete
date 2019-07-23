@@ -8401,6 +8401,9 @@
     ],
     "start_date": "2018-01-21",
     "end_date": null,
+    "abbreviations": [
+      "OPSS"
+    ],
     "format": "Sub-organisation",
     "parents": [
       "D1198"
